@@ -1,0 +1,285 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Fraunces", "Iowan Old Style", Georgia, serif;
+  --font-sans: "Manrope", "Inter", ui-sans-serif, system-ui, -apple-system, sans-serif;
+
+  --color-ink-950: #050b11;
+  --color-ink-900: #08131b;
+  --color-ink-850: #0b1a24;
+  --color-ink-800: #0e212d;
+  --color-ink-700: #16323f;
+  --color-ink-600: #1f4557;
+  --color-ink-500: #2c5f75;
+
+  --color-saffron-200: #ffe6bd;
+  --color-saffron-300: #ffd08a;
+  --color-saffron-400: #f8ab43;
+  --color-saffron-500: #ef8a1c;
+  --color-saffron-600: #cf6d0d;
+
+  --color-jade-300: #7fe3d0;
+  --color-jade-400: #3fc9ae;
+  --color-jade-500: #1fa68d;
+
+  --color-coral-300: #ffa795;
+  --color-coral-400: #ff7a66;
+
+  --color-sand-100: #f5efe6;
+  --color-sand-200: #ded4c6;
+  --color-sand-400: #9aa5ad;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-ink-950);
+  color: var(--color-sand-100);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: var(--color-saffron-400);
+  color: var(--color-ink-950);
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-ink-600) transparent;
+}
+
+*::-webkit-scrollbar {
+  width: 9px;
+  height: 9px;
+}
+*::-webkit-scrollbar-thumb {
+  background: var(--color-ink-600);
+  border-radius: 999px;
+}
+*::-webkit-scrollbar-thumb:hover {
+  background: var(--color-ink-500);
+}
+
+/* ── surfaces ─────────────────────────────────────────────────────────────── */
+.glass {
+  background: linear-gradient(150deg, rgba(255, 255, 255, 0.07), rgba(255, 255, 255, 0.02));
+  border: 1px solid rgba(255, 255, 255, 0.09);
+  backdrop-filter: blur(14px);
+}
+
+.glass-strong {
+  background: rgba(8, 19, 27, 0.86);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(18px);
+}
+
+.card-lift {
+  transition:
+    transform 0.35s cubic-bezier(0.22, 1, 0.36, 1),
+    box-shadow 0.35s ease,
+    border-color 0.35s ease;
+}
+.card-lift:hover {
+  transform: translateY(-4px);
+  border-color: rgba(248, 171, 67, 0.4);
+  box-shadow: 0 22px 50px -24px rgba(0, 0, 0, 0.85);
+}
+
+.hairline {
+  border-color: rgba(255, 255, 255, 0.08);
+}
+
+.text-gradient-saffron {
+  background: linear-gradient(100deg, #ffe6bd, #f8ab43 45%, #ff7a66);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* ── controls ─────────────────────────────────────────────────────────────── */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  border-radius: 999px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  padding: 0.7rem 1.35rem;
+  transition:
+    transform 0.18s ease,
+    box-shadow 0.25s ease,
+    background-color 0.25s ease,
+    color 0.25s ease,
+    border-color 0.25s ease;
+  cursor: pointer;
+  border: 1px solid transparent;
+}
+.btn:active {
+  transform: scale(0.975);
+}
+.btn:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.btn-primary {
+  background: linear-gradient(120deg, var(--color-saffron-400), var(--color-saffron-600));
+  color: #17110a;
+  box-shadow: 0 14px 30px -14px rgba(248, 171, 67, 0.75);
+}
+.btn-primary:hover:not(:disabled) {
+  box-shadow: 0 18px 38px -14px rgba(248, 171, 67, 0.95);
+  transform: translateY(-1px);
+}
+
+.btn-ghost {
+  border-color: rgba(255, 255, 255, 0.16);
+  color: var(--color-sand-100);
+  background: rgba(255, 255, 255, 0.03);
+}
+.btn-ghost:hover:not(:disabled) {
+  border-color: rgba(248, 171, 67, 0.55);
+  background: rgba(248, 171, 67, 0.1);
+}
+
+.btn-jade {
+  background: linear-gradient(120deg, var(--color-jade-400), var(--color-jade-500));
+  color: #04211c;
+}
+
+.input {
+  width: 100%;
+  border-radius: 0.85rem;
+  background: rgba(255, 255, 255, 0.045);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  padding: 0.75rem 1rem;
+  color: var(--color-sand-100);
+  font-size: 0.95rem;
+  transition:
+    border-color 0.2s ease,
+    box-shadow 0.2s ease,
+    background-color 0.2s ease;
+  outline: none;
+}
+.input::placeholder {
+  color: rgba(213, 205, 195, 0.45);
+}
+.input:focus {
+  border-color: rgba(248, 171, 67, 0.75);
+  background: rgba(255, 255, 255, 0.07);
+  box-shadow: 0 0 0 4px rgba(248, 171, 67, 0.14);
+}
+
+.label {
+  display: block;
+  font-size: 0.75rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: rgba(245, 239, 230, 0.55);
+  margin-bottom: 0.45rem;
+  font-weight: 600;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.04);
+  padding: 0.3rem 0.75rem;
+  font-size: 0.75rem;
+  color: rgba(245, 239, 230, 0.8);
+  transition: all 0.2s ease;
+}
+.chip:hover {
+  border-color: rgba(248, 171, 67, 0.5);
+  color: var(--color-saffron-200);
+}
+
+/* ── motion ───────────────────────────────────────────────────────────────── */
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.animate-fade-up {
+  animation: fade-up 0.6s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+@keyframes toast-in {
+  from {
+    opacity: 0;
+    transform: translateX(28px) scale(0.96);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0) scale(1);
+  }
+}
+.animate-toast-in {
+  animation: toast-in 0.35s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+@keyframes ken-burns {
+  0% {
+    transform: scale(1.04) translate3d(0, 0, 0);
+  }
+  100% {
+    transform: scale(1.16) translate3d(-1.5%, -1.5%, 0);
+  }
+}
+.animate-ken-burns {
+  animation: ken-burns 22s ease-in-out infinite alternate;
+}
+
+@keyframes mic-pulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(255, 122, 102, 0.55);
+  }
+  70% {
+    box-shadow: 0 0 0 22px rgba(255, 122, 102, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(255, 122, 102, 0);
+  }
+}
+.animate-mic-pulse {
+  animation: mic-pulse 1.6s infinite;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -420px 0;
+  }
+  100% {
+    background-position: 420px 0;
+  }
+}
+.skeleton {
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.04), rgba(255, 255, 255, 0.11), rgba(255, 255, 255, 0.04));
+  background-size: 420px 100%;
+  animation: shimmer 1.4s infinite linear;
+}
+
+.delay-100 {
+  animation-delay: 0.1s;
+}
+.delay-200 {
+  animation-delay: 0.2s;
+}
+.delay-300 {
+  animation-delay: 0.3s;
+}
+.delay-400 {
+  animation-delay: 0.4s;
+}

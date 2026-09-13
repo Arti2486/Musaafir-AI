@@ -1,0 +1,655 @@
+[
+  {
+    "slug": "manali",
+    "name": "Manali",
+    "state": "Himachal Pradesh",
+    "region": "North India",
+    "category": "Hill Station",
+    "bestTime": "March to June, October to February for snow",
+    "budgetPerPerson": 14000,
+    "rating": 4.7,
+    "image": "https://images.pexels.com/photos/29494184/pexels-photo-29494184.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "tags": "snow,himalaya,trekking,cafe,honeymoon,old manali,rohtang,solang,paragliding,river",
+    "description": "A Himalayan valley town with pine forests, snow-line day trips, riverside cafes and the launch pad for Spiti and Ladakh road trips.",
+    "context": "Manali sits at 2050 m in the Kullu valley. Base yourself in Old Manali or Vashisht for cafes and treks, or on Mall Road for hotels and shopping. Core sights: Hadimba Devi Temple, Manu Temple, Vashisht hot springs, Jogini waterfall trek, Old Manali cafes, Solang Valley (paragliding 2500-3500 INR, zorbing, skiing in winter), Rohtang Pass permit trip (3300 INR taxi plus 550 INR permit, closed on Tuesdays and in heavy snow), Atal Tunnel and Sissu on the Leh side, Kasol and Manikaran 80 km away. Reach by overnight Volvo from Delhi (1200-1800 INR, 12-14 hours) or Bhuntar airport 50 km away. Food: siddu, trout at Johnson's Cafe, momos and Israeli food in Old Manali. Budget stays 1200-2500 INR, mid-range 3000-6000 INR. Carry layers, the weather flips fast; Rohtang and Solang get jammed on weekends so leave by 6 am. Minimum 3 nights recommended, 5 nights if you add Kasol or a Hampta Pass or Beas Kund trek.",
+    "hotels": [
+      { "name": "The Himalayan", "area": "Chadiyani, 4 km from Mall Road", "tier": "luxury", "pricePerNight": 11500, "rating": 4.7, "note": "Castle-style resort, castle rooms and valley lawns" },
+      { "name": "Manuallaya Resort & Spa", "area": "Old Manali", "tier": "mid-range", "pricePerNight": 4200, "rating": 4.4, "note": "Riverside, walkable to cafes, good breakfast" },
+      { "name": "Zostel Manali", "area": "Vashisht", "tier": "budget", "pricePerNight": 1400, "rating": 4.3, "note": "Hostel dorms and private rooms, trek crowd" }
+    ],
+    "places": [
+      { "name": "Solang Valley", "category": "adventure", "timeNeeded": "half day", "entryFee": "Free entry, activities 1500-3500 INR", "description": "Paragliding, ATV rides, zorbing and winter skiing 13 km from town." },
+      { "name": "Rohtang Pass", "category": "day trip", "timeNeeded": "full day", "entryFee": "Permit around 550 INR per vehicle", "description": "Snow point at 3978 m; permit required, closed Tuesdays, start by 6 am." },
+      { "name": "Atal Tunnel and Sissu", "category": "day trip", "timeNeeded": "half day", "entryFee": "Free", "description": "World's longest highway tunnel above 10,000 ft, Lahaul valley views at Sissu." },
+      { "name": "Hadimba Devi Temple", "category": "heritage", "timeNeeded": "1 hour", "entryFee": "Free", "description": "1553 wooden pagoda temple inside a deodar forest." },
+      { "name": "Jogini Waterfall trek", "category": "trekking", "timeNeeded": "3 hours", "entryFee": "Free", "description": "Easy 3 km trail from Vashisht through apple orchards to a two-tier fall." },
+      { "name": "Old Manali cafes", "category": "food", "timeNeeded": "2 hours", "entryFee": "Free", "description": "Dylan's Toasted and Cheers Cafe for trout, Israeli breakfast and river views." }
+    ],
+    "tips": [
+      { "category": "transport", "text": "Book the overnight Delhi-Manali Volvo 2 days ahead in peak season; the 6 pm departure from Majnu Ka Tila reaches by 8 am." },
+      { "category": "money", "text": "Carry cash - Rohtang taxis, Solang activity operators and Old Manali stalls often refuse cards and UPI is patchy above 3000 m." },
+      { "category": "packing", "text": "Even in June nights drop to 10 C, so pack a windproof layer, gloves and waterproof shoes for Rohtang and Sissu." },
+      { "category": "planning", "text": "Rohtang Pass is closed on Tuesdays for maintenance - plan that day for Atal Tunnel or Kasol instead." }
+    ]
+  },
+  {
+    "slug": "shimla",
+    "name": "Shimla",
+    "state": "Himachal Pradesh",
+    "region": "North India",
+    "category": "Hill Station",
+    "bestTime": "March to June, December to February for snow",
+    "budgetPerPerson": 11000,
+    "rating": 4.5,
+    "image": "https://images.pexels.com/photos/37078220/pexels-photo-37078220.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "tags": "mall road,ridge,toy train,kufri,church,colonial,weekend,family",
+    "description": "The former summer capital of the Raj, built on a ridge with a vehicle-free Mall Road, colonial churches and the UNESCO toy train from Kalka.",
+    "context": "Shimla is at 2200 m and works as a 2-3 night trip, best combined with Kufri, Mashobra or Chail. Core sights: The Ridge and Christ Church, Mall Road shopping, Jakhu Temple and the 108 ft Hanuman statue (monkey menace, keep food hidden), Viceregal Lodge (Indian Institute of Advanced Study) with fixed entry timings, Gaiety Theatre, Scandal Point, and the Kalka-Shimla UNESCO narrow gauge toy train (Shivalik Express or railcar, 4-5 hours, book on IRCTC). Day trips: Kufri 16 km for snow and Himalayan Nature Park, Chail 45 km for the highest cricket ground and palace hotel, Mashobra for quiet walks. Reach via Kalka toy train or a 7 hour drive from Chandigarh and Delhi (Volvo 900-1500 INR). Food: Himachali dham, madra, babru; Goofa and Indian Coffee House on Mall Road. Budget hotels 1800-3000 INR near Lakkar Bazaar, heritage 8000 INR plus. Mall Road closes to vehicles in the evening, so keep your hotel within walking distance or accept a 1 km climb with luggage.",
+    "hotels": [
+      { "name": "Wildflower Hall", "area": "Mashobra, 13 km from Shimla", "tier": "luxury", "pricePerNight": 22000, "rating": 4.8, "note": "Oberoi forest retreat, indoor pool and spa" },
+      { "name": "Hotel Combermere", "area": "The Ridge", "tier": "mid-range", "pricePerNight": 5200, "rating": 4.2, "note": "Valley-facing rooms a minute from Mall Road" },
+      { "name": "Hotel Shivalik", "area": "Near ISBT Tutikandi", "tier": "budget", "pricePerNight": 1800, "rating": 4.0, "note": "Clean rooms, easy bus access, short taxi to Ridge" }
+    ],
+    "places": [
+      { "name": "The Ridge and Christ Church", "category": "heritage", "timeNeeded": "2 hours", "entryFee": "Free", "description": "Open plaza with the 1857 neo-gothic church and sunset mountain views." },
+      { "name": "Jakhu Temple", "category": "spiritual", "timeNeeded": "2 hours", "entryFee": "20 INR", "description": "108 ft orange Hanuman statue on Shimla's highest peak, 2.5 km uphill walk." },
+      { "name": "Viceregal Lodge", "category": "heritage", "timeNeeded": "1.5 hours", "entryFee": "50 INR, guided tours only", "description": "1888 residence of British viceroys, site of the partition talks." },
+      { "name": "Kufri", "category": "day trip", "timeNeeded": "half day", "entryFee": "Free, rides extra", "description": "Snow sledging, Himalayan Nature Park and horse rides 16 km out." },
+      { "name": "Kalka-Shimla Toy Train", "category": "experience", "timeNeeded": "5 hours", "entryFee": "300-700 INR", "description": "UNESCO narrow-gauge line through 102 tunnels and 800 bridges." }
+    ],
+    "tips": [
+      { "category": "transport", "text": "Private cars are barred from Mall Road - park at Lift Road or Tutikandi and use the lift or a 15 minute walk." },
+      { "category": "booking", "text": "Reserve the Kalka-Shimla toy train on IRCTC 2-3 weeks ahead; the morning Shivalik Deluxe sells out fastest." },
+      { "category": "planning", "text": "December-January snow blocks Kufri roads; keep a flex day and check with your hotel before booking a cab." }
+    ]
+  },
+  {
+    "slug": "ujjain",
+    "name": "Ujjain",
+    "state": "Madhya Pradesh",
+    "region": "Central India",
+    "bestTime": "October to March",
+    "category": "Spiritual",
+    "budgetPerPerson": 6000,
+    "rating": 4.6,
+    "image": "https://images.pexels.com/photos/18283145/pexels-photo-18283145.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "tags": "mahakal,mahakaleshwar,jyotirlinga,bhasma aarti,kaal bhairav,temple,mp,shiv",
+    "description": "Home of Mahakaleshwar, one of the twelve Jyotirlingas, famous for its pre-dawn Bhasma Aarti and the Kaal Bhairav temple.",
+    "context": "Ujjain is a compact temple city on the Shipra river, 55 km from Indore. The reason for most visits is Mahakaleshwar Jyotirlinga: the Bhasma Aarti happens at 4 am with holy ash, and free darshan opens from 6 am to 10 pm. Paid protocols: Bhasma Aarti pass 500 INR, Ashirwad darshan 300 INR, Sheeghra darshan 2000 INR - book on the MP Online or Mahakal portal a week ahead, Mondays and Shravan are extreme crowds. Other sights: Kaal Bhairav temple (the ritual offering of liquor to the deity), Harsiddhi Shaktipeeth, Ram Ghat for the evening Shipra Aarti at 6:45 pm, Chintaman Ganesh, Sandipani Ashram, Mangalnath. Combine with Omkareshwar (140 km) for a two-Jyotirlinga circuit. Reach by train to Ujjain Junction, or Indore airport 55 km (taxi 1200-1500 INR). Food: poha-jalebi breakfast, Sabzi Mandi street food. Budget dharmshalas 500-1200 INR near Mahakal, hotels 2500 INR. Dress modestly, no leather and phones are not allowed inside the sanctum; free cloakrooms exist at both gates. 1 night is enough, 2 nights with Omkareshwar.",
+    "hotels": [
+      { "name": "Abika Elite Hotel", "area": "Near Mahakal Gate 4", "tier": "mid-range", "pricePerNight": 3200, "rating": 4.3, "note": "5 minute walk to the temple, rooftop cafe" },
+      { "name": "Hotel Anand Palace", "area": "Tower Chowk, 1.5 km from Mahakal", "tier": "budget", "pricePerNight": 1500, "rating": 4.0, "note": "Value rooms, easy auto access" },
+      { "name": "Shri Mahakal Dharmshala", "area": "Rudrasagar, temple premises", "tier": "budget", "pricePerNight": 700, "rating": 4.1, "note": "Temple trust rooms, book at the office, basic but closest" }
+    ],
+    "places": [
+      { "name": "Mahakaleshwar Jyotirlinga", "category": "spiritual", "timeNeeded": "3 hours", "entryFee": "Free darshan; Bhasma Aarti pass 500 INR", "description": "South-facing swayambhu lingam, the 4 am ash aarti is the highlight." },
+      { "name": "Kaal Bhairav Temple", "category": "spiritual", "timeNeeded": "1 hour", "entryFee": "Free", "description": "Fierce form of Shiva where alcohol is ritually offered to the deity." },
+      { "name": "Ram Ghat Shipra Aarti", "category": "spiritual", "timeNeeded": "1.5 hours", "entryFee": "Free", "description": "Evening lamp ceremony on the Shipra at 6:45 pm, Kumbh Mela site." },
+      { "name": "Harsiddhi Shaktipeeth", "category": "spiritual", "timeNeeded": "1 hour", "entryFee": "Free", "description": "One of the 51 Shaktipeeths, striking red-and-gold temple between Mahakal and Ram Ghat." },
+      { "name": "Sandipani Ashram", "category": "heritage", "timeNeeded": "1 hour", "entryFee": "Free", "description": "Legendary school of Krishna and Sudama with ancient stone art." }
+    ],
+    "tips": [
+      { "category": "booking", "text": "Book the Bhasma Aarti protocol pass online at least 7 days early - on Mondays and Shravan Somvar it sells out in hours." },
+      { "category": "planning", "text": "Reach Gate 4 by 3:30 am for the Bhasma Aarti queue; phones, leather belts and bags must be deposited in the free cloakroom." },
+      { "category": "transport", "text": "Autos from Ujjain railway station to Mahakal charge 100-150 INR; the temple e-rickshaw shuttle is free from Rudrasagar parking." }
+    ]
+  },
+  {
+    "slug": "omkareshwar",
+    "name": "Omkareshwar",
+    "state": "Madhya Pradesh",
+    "region": "Central India",
+    "category": "Spiritual",
+    "bestTime": "October to March",
+    "budgetPerPerson": 5500,
+    "rating": 4.5,
+    "image": "https://images.pexels.com/photos/21826914/pexels-photo-21826914.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "tags": "jyotirlinga,narmada,parikrama,mamleshwar,bridge,island,shiv",
+    "description": "A Jyotirlinga on an Om-shaped island in the Narmada, reached by a footbridge, with a 14 km parikrama trail around the island.",
+    "context": "Omkareshwar is an island temple town where the Narmada splits around a landmass shaped like the Om symbol, 77 km from Indore and 140 km from Ujjain. The main Omkareshwar Jyotirlinga is on the island; the Mamleshwar temple on the mainland is considered the same lingam by many priests, so pilgrims cover both. Free darshan 5 am to 9:30 pm; the aarti timings are 5 am and 7:30 pm. The Omkareshwar parikrama is a 14 km loop around the island, best started at 5 am, with Gauri Somnath, Siddhnath and Jhula bridge on the way; there is also a boat parikrama for 200-400 INR per person. Nearby: the Omkareshwar dam viewpoint and Kajal Rani caves 4 km away. Reach by train to Omkareshwar Road station (12 km, shared taxi 300 INR) or drive from Indore 77 km in 2 hours. Food: Narmada ghat thalis and simple MP vegetarian fare. Stays 900-2500 INR, mostly trust-run dharmshalas. Two bridges connect the island - the vehicle bridge and the pedestrian Jhula bridge. Allocate 1 full day plus an overnight, or club it with Ujjain as a two-night Jyotirlinga circuit.",
+    "hotels": [
+      { "name": "Narmada Retreat", "area": "Mainland, near bus stand", "tier": "mid-range", "pricePerNight": 2800, "rating": 4.1, "note": "River-facing rooms and a veg restaurant" },
+      { "name": "Hotel Omkareshwar Residency", "area": "Island side, 400 m from temple", "tier": "budget", "pricePerNight": 1400, "rating": 3.9, "note": "Basic AC rooms, walkable to darshan queue" },
+      { "name": "Shri Omkareshwar Trust Guesthouse", "area": "Near Mamleshwar temple", "tier": "budget", "pricePerNight": 600, "rating": 4.0, "note": "Trust-run dormitories, carry your own towel" }
+    ],
+    "places": [
+      { "name": "Omkareshwar Jyotirlinga", "category": "spiritual", "timeNeeded": "2 hours", "entryFee": "Free", "description": "Island shrine with 5 am and 7:30 pm aarti, queue moves fastest before 8 am." },
+      { "name": "Mamleshwar Temple", "category": "spiritual", "timeNeeded": "1 hour", "entryFee": "Free", "description": "Mainland lingam, traditionally worshipped before crossing to the island." },
+      { "name": "Omkareshwar Parikrama", "category": "trekking", "timeNeeded": "4 hours", "entryFee": "Free", "description": "14 km rocky loop around the island, start at dawn with water and a hat." },
+      { "name": "Jhula Bridge", "category": "experience", "timeNeeded": "45 minutes", "entryFee": "Free", "description": "Swaying suspension footbridge over the Narmada with island views." },
+      { "name": "Omkareshwar Dam viewpoint", "category": "sightseeing", "timeNeeded": "1 hour", "entryFee": "Free", "description": "Sunset point over the reservoir, 8 km by road from the island." }
+    ],
+    "tips": [
+      { "category": "planning", "text": "Do Mamleshwar darshan first, then cross the island; the queue at Omkareshwar peaks between 10 am and 2 pm." },
+      { "category": "health", "text": "The parikrama has almost no shade - start by 5 am, carry 2 litres of water and wear grippy sandals." },
+      { "category": "transport", "text": "Last shared taxi from Omkareshwar Road station is around 9 pm; pre-book a return cab if you arrive on a late train." }
+    ]
+  },
+  {
+    "slug": "indore",
+    "name": "Indore",
+    "state": "Madhya Pradesh",
+    "region": "Central India",
+    "category": "City Break",
+    "bestTime": "October to March",
+    "budgetPerPerson": 7000,
+    "rating": 4.4,
+    "image": "https://images.pexels.com/photos/19195959/pexels-photo-19195959.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "tags": "street food,sarafa,rajwada,clean city,poha jalebi,foodie,base camp",
+    "description": "India's cleanest city and a street-food capital, and the natural base camp for Ujjain, Omkareshwar and Mandu.",
+    "context": "Indore is the commercial capital of Madhya Pradesh and the airport hub for Ujjain (55 km), Omkareshwar (77 km), Mandu (95 km) and Maheshwar (90 km). Food is the main event: Sarafa Bazaar turns into a night food street at 9 pm with bhutte ka kees, garadu chaat, Joshi Dahi Bada and Malpua; Chappan Dukan (56 shops) is open all day for shikanji, poha-jalebi and rolls; the morning poha-jalebi ritual at any local stall is non-negotiable. Sights: Rajwada Palace (Holkar seven-storey wooden-and-stone palace, 20 INR), Lal Bagh Palace (entry 10 INR, closed Monday), Kanch Mandir glass temple, Central Museum, Patalpani waterfall 35 km, Tincha Falls and Ralamandal wildlife sanctuary. Reach by Devi Ahilyabai airport with flights from Delhi, Mumbai, Bengaluru; trains from all metros. Stays 1500-2500 INR near Vijay Nagar or Rajwada, luxury 6000 INR. Two nights covers the city plus one temple day trip; three nights covers Ujjain-Omkareshwar. Indore is safe and walkable, but traffic around Rajwada is chaotic - use autos or the city bus.",
+    "hotels": [
+      { "name": "Sayaji Hotel", "area": "Vijay Nagar", "tier": "luxury", "pricePerNight": 7200, "rating": 4.5, "note": "Full-service business hotel with three restaurants" },
+      { "name": "Hotel Guru Palace", "area": "Near Rajwada", "tier": "mid-range", "pricePerNight": 2600, "rating": 4.2, "note": "Walk to Sarafa night market and the palace" },
+      { "name": "Zostel Indore", "area": "Vijay Nagar", "tier": "budget", "pricePerNight": 999, "rating": 4.3, "note": "Hostel beds and cafe, good for solo travellers" }
+    ],
+    "places": [
+      { "name": "Sarafa Bazaar night food street", "category": "food", "timeNeeded": "2 hours", "entryFee": "Free", "description": "Jewellery market by day, Indore's famous chaat street from 9 pm." },
+      { "name": "Rajwada Palace", "category": "heritage", "timeNeeded": "1.5 hours", "entryFee": "20 INR", "description": "Seven-storey Holkar palace blending Maratha, Mughal and French design." },
+      { "name": "Lal Bagh Palace", "category": "heritage", "timeNeeded": "2 hours", "entryFee": "10 INR, closed Monday", "description": "European-style palace museum with original fittings and a rose garden." },
+      { "name": "Kanch Mandir", "category": "spiritual", "timeNeeded": "45 minutes", "entryFee": "Free", "description": "Jain temple lined entirely with mirrors and coloured glass." },
+      { "name": "Patalpani Waterfall", "category": "nature", "timeNeeded": "half day", "entryFee": "20 INR", "description": "300 ft monsoon-fed cascade 35 km out, best July to October." },
+      { "name": "Chappan Dukan", "category": "food", "timeNeeded": "1.5 hours", "entryFee": "Free", "description": "Cluster of 56 eateries serving shikanji, rolls and South Indian snacks." }
+    ],
+    "tips": [
+      { "category": "food", "text": "Eat poha-jalebi before 10 am - the best stalls sell out, and Sarafa only opens at 9 pm so plan dinner separately." },
+      { "category": "transport", "text": "Pre-book a full-day cab (2800-3500 INR) for the Ujjain or Omkareshwar round trip; local autos are cheaper but hard to flag at night." },
+      { "category": "planning", "text": "Museums and Lal Bagh close on Mondays - use that day for Mandu or Maheshwar instead." }
+    ]
+  },
+  {
+    "slug": "agra",
+    "name": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "North India",
+    "category": "Heritage",
+    "bestTime": "October to March",
+    "budgetPerPerson": 6500,
+    "rating": 4.7,
+    "image": "https://images.pexels.com/photos/11948442/pexels-photo-11948442.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "tags": "taj mahal,agra fort,fatehpur sikri,unesco,sunrise,mehtab bagh,yamuna",
+    "description": "The Taj Mahal city - Mughal marble, red-sandstone forts and a classic overnight stop on the Delhi-Jaipur golden triangle.",
+    "context": "Agra is 230 km south of Delhi on the Yamuna and is normally a one-night stop. Taj Mahal opens at sunrise (6 am in winter, 5:30 am in summer) and closes at sunset, Friday closed for general visitors. Tickets: Indian 50 INR plus 200 INR for main mausoleum; foreign tourists 1100 INR plus 200 INR; entry via West, South and East gates - East gate has the shorter foreigner queue. Agra Fort 100 INR / 650 INR foreigners, open all days. Itmad-ud-Daulah (Baby Taj) 30 INR is the quieter, more detailed tomb. Mehtab Bagh across the river gives the sunset view of the Taj's back. Fatehpur Sikri 40 km needs 3 hours and 50/610 INR tickets, best at 7 am or 4 pm. Reach by Gatimaan Express (1 h 58 m from Delhi Hazrat Nizamuddin, 750-1500 INR) or Shatabdi, or a 3-4 hour Yamuna Expressway drive. Food: petha from Panchi, bedai-kachori, Mughlai kebabs at Pinch of Spice. Stays 1500-3000 INR near Taj Ganj, luxury 9000 INR at Taj Hotel & Convention Centre. Sunrise Taj plus fort plus Baby Taj fits in one full day; add Fatehpur Sikri for a second day.",
+    "hotels": [
+      { "name": "The Oberoi Amarvilas", "area": "600 m from the Taj Mahal", "tier": "luxury", "pricePerNight": 78000, "rating": 4.9, "note": "Every room has a Taj view, book 4-6 months ahead" },
+      { "name": "Trident Agra", "area": "Fatehabad Road", "tier": "luxury", "pricePerNight": 11000, "rating": 4.6, "note": "Mughal garden courtyards, 10 minutes from East gate" },
+      { "name": "Hotel Sidhartha", "area": "Taj Ganj, West gate", "tier": "budget", "pricePerNight": 1800, "rating": 4.1, "note": "Rooftop Taj view at sunrise, 5 minutes on foot to the gate" }
+    ],
+    "places": [
+      { "name": "Taj Mahal", "category": "heritage", "timeNeeded": "3 hours", "entryFee": "50 INR Indian, 1100 INR foreign, closed Friday", "description": "Shah Jahan's 1653 marble mausoleum, sunrise is the least crowded slot." },
+      { "name": "Agra Fort", "category": "heritage", "timeNeeded": "2 hours", "entryFee": "50 INR Indian, 650 INR foreign", "description": "Red sandstone citadel with Diwan-i-Khas and views of the Taj from the ramparts." },
+      { "name": "Itmad-ud-Daulah (Baby Taj)", "category": "heritage", "timeNeeded": "1 hour", "entryFee": "30 INR", "description": "Marble inlay tomb that pre-dates the Taj, quiet and photogenic at dusk." },
+      { "name": "Mehtab Bagh", "category": "sightseeing", "timeNeeded": "1 hour", "entryFee": "25 INR", "description": "Moonlight garden across the Yamuna for the classic back-view sunset shot." },
+      { "name": "Fatehpur Sikri", "category": "day trip", "timeNeeded": "3 hours", "entryFee": "50 INR Indian, 610 INR foreign", "description": "Akbar's abandoned capital 40 km away with Buland Darwaza and Panch Mahal." }
+    ],
+    "tips": [
+      { "category": "planning", "text": "The Taj is closed to general visitors on Fridays - schedule Agra on other days and use Friday for Fatehpur Sikri." },
+      { "category": "money", "text": "Buy Taj tickets online at asi.paytm.com or at the West gate counter to skip the queue; carry ID matching the ticket name." },
+      { "category": "safety", "text": "Ignore touts at the railway station claiming the Taj is closed; only buy guides with a government ID card, fixed rate around 500 INR." }
+    ]
+  },
+  {
+    "slug": "goa",
+    "name": "Goa",
+    "state": "Goa",
+    "region": "West India",
+    "category": "Beach",
+    "bestTime": "November to February",
+    "budgetPerPerson": 12000,
+    "rating": 4.6,
+    "image": "https://images.pexels.com/photos/10933045/pexels-photo-10933045.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "tags": "beach,north goa,south goa,party,scooter,seafood,forts,casino,sunset",
+    "description": "40 beaches across a north-south split - party and shacks up north, quiet palm coves down south, with Portuguese heritage in between.",
+    "context": "Goa splits into North (Baga, Calangute, Anjuna, Vagator, Morjim, Arambol) for nightlife, shacks and markets, and South (Palolem, Agonda, Colva, Benaulim, Butterfly Beach) for quiet sand and resorts. Panjim (Fontainhas Latin Quarter, Immaculate Conception Church), Old Goa's Basilica of Bom Jesus and Se Cathedral (UNESCO, 10-20 INR), and Fort Aguada plus Chapora Fort are the inland sights. Beach-wise: Vagator and Ozran for sunsets and cafes, Anjuna flea market on Wednesdays, Arambol drum circle and cliff jump, Palolem dolphin boat trips 500 INR, Butterfly and Honeymoon beach by kayak from Palolem. Activities: scuba at Grande Island (4500-5500 INR), Dudhsagar waterfall jeep safari (3500 INR per jeep, closed June-September peak monsoon flow), casino cruise on the Mandovi (2500-3500 INR with buffet), spice plantation lunch at Sahakari (1200 INR). Reach via Dabolim or the new Mopa airport, or Madgaon and Thivim trains. Rent a scooter 400-600 INR per day (driving licence required, helmets compulsory) or use GoaMiles cabs. Food: fish thali, prawn balchao, bebinca, pork vindaloo at Martin's Corner. Budget shacks 1200-2500 INR north, beach resorts 6000 INR south. Four nights is the sweet spot: two north, two south.",
+    "hotels": [
+      { "name": "Taj Fort Aguada Resort", "area": "Sinquerim, North Goa", "tier": "luxury", "pricePerNight": 16500, "rating": 4.7, "note": "Cliff-top fort property with a private beach stretch" },
+      { "name": "Artjuna Garden Hotel", "area": "Anjuna / Vagator", "tier": "mid-range", "pricePerNight": 4800, "rating": 4.5, "note": "Boutique garden rooms, walk to Ozran sunset cafes" },
+      { "name": "Palolem Beach Huts", "area": "Palolem, South Goa", "tier": "budget", "pricePerNight": 1800, "rating": 4.2, "note": "Sand-facing bamboo huts with fan and hot water" }
+    ],
+    "places": [
+      { "name": "Palolem Beach", "category": "beach", "timeNeeded": "half day", "entryFee": "Free", "description": "Crescent bay in the south, kayak to Butterfly Beach and dolphin boats at dawn." },
+      { "name": "Vagator and Ozran cliff", "category": "beach", "timeNeeded": "3 hours", "entryFee": "Free", "description": "Cliff-top sunset cafes, Thalassa and Sublime, above a rocky cove." },
+      { "name": "Basilica of Bom Jesus, Old Goa", "category": "heritage", "timeNeeded": "1.5 hours", "entryFee": "Free", "description": "UNESCO 1605 church holding the remains of St Francis Xavier." },
+      { "name": "Fort Aguada", "category": "heritage", "timeNeeded": "2 hours", "entryFee": "Free, lighthouse 20 INR", "description": "1612 Portuguese fort with a working lighthouse and Mandovi views." },
+      { "name": "Dudhsagar Falls jeep safari", "category": "nature", "timeNeeded": "full day", "entryFee": "3500 INR per jeep plus 50 INR entry", "description": "Four-tier 310 m waterfall in Bhagwan Mahavir sanctuary, October to May." },
+      { "name": "Fontainhas Latin Quarter", "category": "heritage", "timeNeeded": "2 hours", "entryFee": "Free", "description": "Panjim's Portuguese lanes with tiled houses, galleries and bakeries." }
+    ],
+    "tips": [
+      { "category": "transport", "text": "Rent a scooter only with a valid licence and helmet - Goa police fine tourists daily at Vagator and Anjuna checkpoints, 1000-2000 INR." },
+      { "category": "money", "text": "Beach shacks add 15-20% service and GST; confirm prices for sunbeds (300-500 INR) before sitting down." },
+      { "category": "planning", "text": "North Goa is loud till 1 am in season - light sleepers should book Morjim, Siolim or a south-side beach instead." },
+      { "category": "safety", "text": "Swim only in flagged zones at Baga, Calangute and Palolem; rip currents on Agonda and Querim have caused drownings." }
+    ]
+  },
+  {
+    "slug": "jaipur",
+    "name": "Jaipur",
+    "state": "Rajasthan",
+    "region": "North India",
+    "category": "Heritage",
+    "bestTime": "October to March",
+    "budgetPerPerson": 9000,
+    "rating": 4.7,
+    "image": "https://images.pexels.com/photos/5015403/pexels-photo-5015403.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "tags": "pink city,amer fort,hawa mahal,city palace,forts,shopping,rajasthan,golden triangle",
+    "description": "The Pink City with hilltop forts, a living palace, block-print bazaars and the best gateway into Rajasthan.",
+    "context": "Jaipur is 280 km from Delhi and the anchor of the golden triangle. Must-sees: Amber Fort 10 km out (500 INR Indian / 700 INR foreign, elephant rides are discouraged, reach by 8 am to beat heat and buses), Hawa Mahal (200 INR, best photographed from the cafe across the road at 7 am), City Palace and museum (700 INR, the royal family still lives in part of it), Jantar Mantar observatory (200 INR, UNESCO), Nahargarh Fort for the sunset skyline (200 INR, night illumination till 9 pm), Jal Mahal photo stop, Albert Hall Museum (400 INR), and Anokhi block-print museum at Sangheri. Shopping: Johari Bazaar for gemstones and silver, Bapu and Nehru Bazaar for mojari and bandhani, Chandpole for blue pottery, Sitapura and Bagru for hand block printing. Day trips: Samode 42 km, Abhaneri stepwell 95 km, and Sariska tiger reserve 110 km (safari 1500-3000 INR). Reach by airport, or Delhi-Jaipur Vande Bharat in 3 h 40 m (750-1500 INR). Food: dal baati churma at Chokhi Dhani or Laxmi Misthan Bhandar, pyaaz kachori at Rawat, laal maas at Handi. Stays 1500-3000 INR in MI Road, havelis 7000 INR. Two nights cover the city, three with a fort-village day trip.",
+    "hotels": [
+      { "name": "Rambagh Palace", "area": "Bhawani Singh Road", "tier": "luxury", "pricePerNight": 42000, "rating": 4.8, "note": "Former royal residence, peacock gardens and polo bar" },
+      { "name": "Hotel Pearl Palace", "area": "Hathroi Fort, near MI Road", "tier": "budget", "pricePerNight": 1900, "rating": 4.6, "note": "Legendary rooftop cafe, family-run, book early in season" },
+      { "name": "Umaid Mahal Heritage", "area": "Near Hawa Mahal", "tier": "mid-range", "pricePerNight": 5400, "rating": 4.5, "note": "Boutique haveli, walkable to City Palace and bazaars" }
+    ],
+    "places": [
+      { "name": "Amber Fort", "category": "heritage", "timeNeeded": "3 hours", "entryFee": "500 INR Indian, 700 INR foreign", "description": "Hilltop palace-fort with Sheesh Mahal mirror hall and Maota Lake views." },
+      { "name": "Hawa Mahal", "category": "heritage", "timeNeeded": "1 hour", "entryFee": "200 INR", "description": "953-window pink sandstone facade built in 1799 for royal women." },
+      { "name": "City Palace", "category": "heritage", "timeNeeded": "2 hours", "entryFee": "700 INR", "description": "Courtyards, armoury and a working royal residence with a paid royal suite tour." },
+      { "name": "Nahargarh Fort", "category": "sightseeing", "timeNeeded": "2 hours", "entryFee": "200 INR", "description": "Sunset viewpoint over the Pink City with the Padao restaurant terrace." },
+      { "name": "Jantar Mantar", "category": "heritage", "timeNeeded": "1 hour", "entryFee": "200 INR", "description": "UNESCO 1734 astronomical yard with the world's largest stone sundial." },
+      { "name": "Chokhi Dhani village", "category": "culture", "timeNeeded": "half day", "entryFee": "900 INR with dinner", "description": "Rajasthani folk evening with puppetry, camel rides and a thali." }
+    ],
+    "tips": [
+      { "category": "money", "text": "The composite Amber Fort ticket (1000 INR) covers Amber, Albert Hall, Jantar Mantar, Nahargarh and Sisodia garden - worth it for two days." },
+      { "category": "planning", "text": "Start Amber Fort at 7:30 am; by 10 am tour buses fill the courtyards and the stone reflects heat above 38 C." },
+      { "category": "shopping", "text": "Bargain to 50-60% of the first quote in Johari and Bapu Bazaar, and insist on a GST bill for gemstones and silver." }
+    ]
+  },
+  {
+    "slug": "udaipur",
+    "name": "Udaipur",
+    "state": "Rajasthan",
+    "region": "North India",
+    "category": "Heritage",
+    "bestTime": "September to March",
+    "budgetPerPerson": 10000,
+    "rating": 4.8,
+    "image": "https://images.pexels.com/photos/32261868/pexels-photo-32261868.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "tags": "lake pichola,city palace,romantic,honeymoon,boats,jagdish,rajasthan,sunset",
+    "description": "The lake city - white marble palaces around Pichola, sunset boat rides and the most romantic old-town lanes in Rajasthan.",
+    "context": "Udaipur is built around Lake Pichola, Fateh Sagar and Udai Sagar with the Aravallis behind. Core sights: City Palace complex (600 INR, 2-3 hours, museum plus crystal gallery 1200 INR, best at opening 9:30 am), Jagdish Temple 1651 (free), Lake Pichola boat ride (600 INR for 45 minutes, sunset slots sell out, includes Jag Mandir stop), Bagore-ki-Haveli with the Dharohar folk dance show at 7 pm (150 INR), Saheliyon-ki-Bari (30 INR), Monsoon Palace Sajjangarh for the sunset (200 INR plus taxi), Vintage Car Museum, and Ambrai Ghat for the classic City Palace skyline photo. Day trips: Kumbhalgarh Fort 85 km (second-longest wall in the world, 250 INR), Ranakpur Jain temples 95 km (200 INR, dress code), Haldighati, and Nathdwara Shrinathji 48 km. Reach via Maharana Pratap airport 22 km, or the train from Jaipur (Mewar Express overnight) and Ahmedabad 4 hours. Food: laal maas, gatte ki sabzi, dal baati, and lake-view cafes at Ambrai Ghat and Jheel's Ginger. Stays: haveli guesthouses in Chandpole and Lal Ghat 2000-4000 INR with lake views, palace hotels 25000 INR plus. Three nights is right, four if adding Kumbhalgarh-Ranakpur.",
+    "hotels": [
+      { "name": "Taj Lake Palace", "area": "Jag Niwas island, Lake Pichola", "tier": "luxury", "pricePerNight": 85000, "rating": 4.9, "note": "Boat-access only marble island palace, book months ahead" },
+      { "name": "Jagat Niwas Palace Hotel", "area": "Lal Ghat, east bank", "tier": "mid-range", "pricePerNight": 6200, "rating": 4.6, "note": "Rooftop lake-facing rooms, 4 minutes walk to City Palace" },
+      { "name": "Zostel Udaipur", "area": "Chandpole", "tier": "budget", "pricePerNight": 1200, "rating": 4.4, "note": "Hostel with rooftop cafe, near the boat jetty and ghats" }
+    ],
+    "places": [
+      { "name": "City Palace Udaipur", "category": "heritage", "timeNeeded": "3 hours", "entryFee": "600 INR Indian", "description": "Layered Mewar palace over 400 years, Mor Chowk peacock mosaics and armoury." },
+      { "name": "Lake Pichola sunset boat ride", "category": "experience", "timeNeeded": "1 hour", "entryFee": "600 INR", "description": "Royal boat from Rameshwar Ghat to Jag Mandir with palace skyline views." },
+      { "name": "Bagore-ki-Haveli and Dharohar show", "category": "culture", "timeNeeded": "2 hours", "entryFee": "150 INR show", "description": "18th century haveli museum plus 7 pm Rajasthani folk dance and puppetry." },
+      { "name": "Jagdish Temple", "category": "spiritual", "timeNeeded": "45 minutes", "entryFee": "Free", "description": "1651 Indo-Aryan Vishnu temple with carved pillars, opposite City Palace gate." },
+      { "name": "Sajjangarh Monsoon Palace", "category": "sightseeing", "timeNeeded": "2 hours", "entryFee": "200 INR plus cab", "description": "Hilltop palace for the best sunset over the lakes, open till 8 pm." },
+      { "name": "Kumbhalgarh Fort", "category": "day trip", "timeNeeded": "full day", "entryFee": "250 INR", "description": "36 km rampart wall and birthplace of Maharana Pratap, 85 km from Udaipur." }
+    ],
+    "tips": [
+      { "category": "planning", "text": "Buy the Pichola sunset boat ticket before 4 pm - the 5:30 pm Royal boat is usually full, and the palace ticket office closes early." },
+      { "category": "transport", "text": "Old-town lanes are too narrow for cars; use the free cycle-rickshaw from Chandpole or walk with a small bag only." },
+      { "category": "money", "text": "Lake-view rooms cost 2-3x the same hotel's street-side room - worth it here, but book direct and ask for a balcony." }
+    ]
+  },
+  {
+    "slug": "varanasi",
+    "name": "Varanasi",
+    "state": "Uttar Pradesh",
+    "region": "North India",
+    "category": "Spiritual",
+    "bestTime": "October to March",
+    "budgetPerPerson": 7000,
+    "rating": 4.7,
+    "image": "https://images.pexels.com/photos/35655143/pexels-photo-35655143.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "tags": "ghats,ganga aarti,kashi,boat ride,sarnath,banarasi silk,spiritual,moksha",
+    "description": "The oldest living city in the world: 88 ghats on the Ganga, dawn boat rides, evening aarti and silk-weaving lanes.",
+    "context": "Varanasi (Kashi) is on the west bank of the Ganga and is a 2-night trip at minimum. The day starts with a sunrise boat ride (official government boats 300 INR per person for 45 minutes from Dashashwamedh or Assi; private rowboats 1500-2500 INR per boat, negotiate hard). Key ghats: Dashashwamedh for the 6:45 pm Ganga Aarti (arrive 45 minutes early or watch from a boat), Assi Ghat for the 5 am Subah-e-Banaras music aarti, Manikarnika and Harishchandra (cremation ghats - do not photograph), Tulsi, Kedar, Scindia. Inland: Kashi Vishwanath temple (free darshan, Sugam darshan 300 INR, book on the official site, phones and leather banned, cloakroom free), Sarnath 10 km where Buddha gave his first sermon (Dhamekh Stupa 250 INR, museum 300 INR closed Monday), Ramnagar Fort 14 km, BHU campus and Bharat Kala Bhavan. Silk: Banarasi sarees from Godowlia, Pilgrim and Lalloo Godown, plus a handloom weaver visit in Madanpura. Reach by Lal Bahadur Shastri airport 26 km, or Varanasi Junction and Cantt stations. Food: kachori-sabzi at Ram Bhandar, malaiyo in winter, lassi at Pehelwan (Blue Lassi), chaat at Kachahari Godowlia, thali at Baati Chokha. Stays: riverside haveli hotels at Assi 2500-5000 INR, luxury BrijRama Palace 30000 INR. Cars cannot enter the ghat lanes - the last 500 m is always on foot or by e-rickshaw.",
+    "hotels": [
+      { "name": "BrijRama Palace", "area": "Darbhanga Ghat, riverside", "tier": "luxury", "pricePerNight": 32000, "rating": 4.8, "note": "18th century ghat palace, boat transfer included" },
+      { "name": "Hotel Ganges View", "area": "Assi Ghat", "tier": "mid-range", "pricePerNight": 4600, "rating": 4.5, "note": "River-facing rooms, calm Assi side, good breakfast" },
+      { "name": "Yogi Lodge", "area": "Kalika Gali near Vishwanath", "tier": "budget", "pricePerNight": 900, "rating": 4.1, "note": "Backpacker classic, rooftop and walking distance to the ghats" }
+    ],
+    "places": [
+      { "name": "Sunrise boat ride on the Ganga", "category": "experience", "timeNeeded": "1.5 hours", "entryFee": "300 INR government boat", "description": "Drift past 88 ghats from Assi to Manikarnika as the city wakes." },
+      { "name": "Dashashwamedh Ganga Aarti", "category": "spiritual", "timeNeeded": "1.5 hours", "entryFee": "Free", "description": "Seven-priest fire ceremony at 6:45 pm, seating fills an hour early." },
+      { "name": "Kashi Vishwanath Temple", "category": "spiritual", "timeNeeded": "2 hours", "entryFee": "Free; Sugam darshan 300 INR", "description": "One of the twelve Jyotirlingas, corridor links the temple to Lalita Ghat." },
+      { "name": "Sarnath", "category": "heritage", "timeNeeded": "3 hours", "entryFee": "250 INR stupa, 300 INR museum closed Monday", "description": "Buddha's first sermon site with Dhamekh Stupa and the lion capital museum." },
+      { "name": "Assi Ghat and Subah-e-Banaras", "category": "culture", "timeNeeded": "1 hour", "entryFee": "Free", "description": "5 am classical music and yoga aarti, then breakfast at the ghat cafes." },
+      { "name": "Banarasi silk weaving lanes", "category": "shopping", "timeNeeded": "2 hours", "entryFee": "Free", "description": "Handloom workshops in Madanpura and Godowlia, verify silk mark before buying." }
+    ],
+    "tips": [
+      { "category": "safety", "text": "Never photograph the cremations at Manikarnika and Harishchandra ghats - it is offensive and touts will demand money for it." },
+      { "category": "money", "text": "Fix the boat price and route before boarding; a 45 minute sunrise trip should cost 300 INR per person or 1500 INR for a private boat." },
+      { "category": "planning", "text": "Kashi Vishwanath has 45 minute to 2 hour queues - do darshan at 5 am, and leave phones and leather in the free cloakroom outside." },
+      { "category": "transport", "text": "Autos stop at Godowlia; from there the ghat lanes are on foot or e-rickshaw, so travel with a backpack rather than a wheeled case." }
+    ]
+  },
+  {
+    "slug": "kedarnath",
+    "name": "Kedarnath",
+    "state": "Uttarakhand",
+    "region": "North India",
+    "category": "Spiritual",
+    "bestTime": "May to June, September to October",
+    "budgetPerPerson": 13000,
+    "rating": 4.8,
+    "image": "https://images.pexels.com/photos/29494219/pexels-photo-29494219.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "tags": "char dham,jyotirlinga,trek,sonprayag,gaumukh,helicopter,shiv,himalaya",
+    "description": "A Jyotirlinga at 3583 m behind a 16 km Himalayan trek from Gaurikund, open only May to November, with helicopter, pony and palanquin options.",
+    "context": "Kedarnath temple sits at 3583 m behind a 16 km trek from Sonprayag Gaurikund and is open only from late April or early May to early November (winter the deity moves to Ukhimath). Registration is mandatory and free - register on the official Uttarakhand Char Dham portal or the app, and carry a printout plus ID. Route: Haridwar or Rishikesh to Sonprayag 220 km by shared taxi (700-1000 INR, 9-10 hours) or bus, then a compulsory shuttle to Gaurikund, then the 16 km climb. Options: trek on foot (6-8 hours up, free), pony 6500-9000 INR, doli or palanquin 8500 INR, or helicopter from Phata, Sersi or Guptkashi (7700-12000 INR return per person, 8 minute flight, book only on the official IRCTC heliyatra site - touts sell fake tickets). Darshan at the temple is free, VIP or priority darshan around 2000 INR; the temple shuts from 1 pm to 4 pm for bhog. Nearby: Bhairavnath Temple 1 km above, Vasuki Tal 8 km high-altitude lake trek, Gaurikund hot springs, Gandhi Sarovar, and Guptkashi and Ukhimath temples. Carry: thermals, rain poncho, grip shoes, power bank, medicines, no plastic bags allowed. Food: GMVN canteen and Bhandara free langar meals. Stays: GMVN tents and ashrams 800-2500 INR, book ahead, otherwise queues at the counter. Combine with Badrinath for the two-dham circuit, or with Rishikesh for 6-7 nights. Altitude sickness is real above 3000 m - ascend slowly, hydrate and avoid alcohol.",
+    "hotels": [
+      { "name": "GMVN Swargarohini Tourist Bungalow", "area": "Kedarnath, near temple", "tier": "mid-range", "pricePerNight": 3500, "rating": 4.0, "note": "State tourism bungalow, book on the GMVN site only" },
+      { "name": "GMVN tent colony", "area": "Lincholi, 4 km before Kedarnath", "tier": "budget", "pricePerNight": 1200, "rating": 3.9, "note": "Pre-fabricated tents with attached toilets, hot water on request" },
+      { "name": "Hotel Kalpataru", "area": "Guptkashi / Phata helipad side", "tier": "mid-range", "pricePerNight": 2800, "rating": 4.2, "note": "Best base for the helicopter route and Sonprayag shuttles" }
+    ],
+    "places": [
+      { "name": "Kedarnath Temple", "category": "spiritual", "timeNeeded": "3 hours", "entryFee": "Free darshan; VIP 2000 INR", "description": "8th century Jyotirlinga at 3583 m, darshan 4 am to 1 pm and 4 pm to 9 pm." },
+      { "name": "Gaurikund to Kedarnath trek", "category": "trekking", "timeNeeded": "6-8 hours", "entryFee": "Free", "description": "16 km stone path along the Mandakini with tea stops at Rambara and Lincholi." },
+      { "name": "Bhairavnath Temple", "category": "spiritual", "timeNeeded": "1.5 hours", "entryFee": "Free", "description": "1 km climb above the temple, guardian deity and the best Kedarnath valley view." },
+      { "name": "Vasuki Tal", "category": "trekking", "timeNeeded": "full day", "entryFee": "Free", "description": "8 km steep climb to a 4135 m glacial lake, only for fit trekkers with a guide." },
+      { "name": "Gaurikund hot springs", "category": "nature", "timeNeeded": "1 hour", "entryFee": "20 INR", "description": "Sulphur springs at the trek start point, named after Parvati." },
+      { "name": "Sonprayag confluence", "category": "sightseeing", "timeNeeded": "45 minutes", "entryFee": "Free", "description": "Mandatory shuttle change point where Madhu Ganga meets the Basuki." }
+    ],
+    "tips": [
+      { "category": "booking", "text": "Register on the official Char Dham portal before travel and book helicopters only through IRCTC Heliyatra - fake helicopter tickets are a common scam at Phata and Sersi." },
+      { "category": "health", "text": "Acclimatise one night at Guptkashi or Sonprayag before the climb; drink 3 litres of water, skip alcohol and descend immediately if you get a splitting headache." },
+      { "category": "planning", "text": "Start the trek by 4 am to reach the temple before the 9 am rush, and remember darshan pauses from 1 pm to 4 pm for bhog." },
+      { "category": "packing", "text": "Pack thermals, a rain poncho, grippy shoes, a headlamp and a power bank - it can snow or rain any month of the season." }
+    ]
+  },
+  {
+    "slug": "rishikesh",
+    "name": "Rishikesh",
+    "state": "Uttarakhand",
+    "region": "North India",
+    "category": "Adventure",
+    "bestTime": "September to November, February to May",
+    "budgetPerPerson": 8000,
+    "rating": 4.7,
+    "image": "https://images.pexels.com/photos/12387057/pexels-photo-12387057.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "tags": "rafting,yoga,beatles ashram,ganga aarti,bungee,tapovan,laxman jhula,camping",
+    "description": "The yoga capital of India where the Ganga leaves the mountains - white-water rafting, bungee jumping, ashrams and riverside cafes.",
+    "context": "Rishikesh has three zones: Rishikesh town (Ram Jhula, Triveni Ghat, Gita Bhawan), the ashram belt (Sivananda Ashram, Parmarth Niketan with the 6 pm Ganga Aarti, the Beatles Ashram or Chaurasi Kutia now a paid museum 250 INR, closed Monday), and Tapovan and Jonk on the east bank for rafting operators, cafes and adventure stays. Rafting runs from Brahmpuri or Marine Drive 16 km to Nim Beach or Triveni Ghat, 1500-2500 INR per person for the long stretch, 3-4 hours including cliff jumps and body surfing; the season is March to June and September to November, closed in the monsoon peak flow. Adventure: Mohanchatti bungee at 83 m (3700 INR, Asia's highest fixed platform, book online in advance), Flying Fox, giant swing, mountain biking to Chilla. Spiritual: Parmarth Niketan aarti, yoga drop-in classes 500-800 INR, 200-hour teacher trainings, Gita Bhawan free stay and meals. Day trips: Neelkanth Mahadev Temple 32 km (steep forest road, 4 am start), Devprayag 70 km where Alaknanda and Bhagirathi meet to form the Ganga, Haridwar 25 km for Har Ki Pauri aarti, and Chilla wildlife sanctuary. Reach via Dehradun's Jolly Grant airport 35 km or Haridwar or Rishikesh railway station; the Delhi-Rishikesh drive is 250 km in 6 hours. Food: pure vegetarian by law inside Rishikesh - Little Buddha Cafe, Freedom Cafe, Chotiwala for thali; alcohol and non-veg are banned in town. Stays: Tapovan guesthouses 1200-2500 INR, riverside camps at Shivpuri 2000 INR with rafting included, luxury Ananda in the Himalayas 45000 INR. Three nights is ideal.",
+    "hotels": [
+      { "name": "Ananda in the Himalayas", "area": "Narendra Nagar, 20 km from Rishikesh", "tier": "luxury", "pricePerNight": 46000, "rating": 4.8, "note": "Palace spa resort with Ganga valley views and yoga pavilion" },
+      { "name": "Ganga Kinare", "area": "Neelkanth Road, riverside", "tier": "mid-range", "pricePerNight": 7500, "rating": 4.5, "note": "Rooms open onto the river, 5 minutes from Ram Jhula" },
+      { "name": "Zostel Rishikesh (Jonk)", "area": "Jonk, Tapovan side", "tier": "budget", "pricePerNight": 1300, "rating": 4.4, "note": "Hostel with cliff cafe, rafting pickup point at the door" }
+    ],
+    "places": [
+      { "name": "White-water rafting Shivpuri to Nim Beach", "category": "adventure", "timeNeeded": "4 hours", "entryFee": "1500-2500 INR", "description": "16 km of grade II-IV rapids with cliff jumps and body surfing, March to June and September to November." },
+      { "name": "Parmarth Niketan Ganga Aarti", "category": "spiritual", "timeNeeded": "1.5 hours", "entryFee": "Free", "description": "Sunset aarti at 6 pm with live Vedic chanting, sit on the ghats 30 minutes early." },
+      { "name": "Beatles Ashram (Chaurasi Kutia)", "category": "heritage", "timeNeeded": "2 hours", "entryFee": "250 INR, closed Monday", "description": "Abandoned Maharishi Mahesh Yogi ashram with graffiti murals and dome buildings." },
+      { "name": "Mohanchatti bungee jump", "category": "adventure", "timeNeeded": "3 hours", "entryFee": "3700 INR", "description": "83 m platform over a wooded gorge, Asia's highest fixed bungee, book ahead." },
+      { "name": "Neelkanth Mahadev Temple", "category": "spiritual", "timeNeeded": "half day", "entryFee": "Free", "description": "Shiva temple 32 km up a forested switchback road, leave by 6 am." },
+      { "name": "Laxman Jhula and Ram Jhula", "category": "sightseeing", "timeNeeded": "1 hour", "entryFee": "Free", "description": "Suspension bridges over the Ganga linking the ashram and cafe belts." }
+    ],
+    "tips": [
+      { "category": "booking", "text": "Bungee and flying fox slots sell out on weekends - reserve online 3-4 days ahead and reach the Mohanchatti base by 8 am." },
+      { "category": "money", "text": "Rishikesh is vegetarian and alcohol-free by law; rafting operators at Ram Jhula quote 3500 INR for the same 16 km run that costs 1800 INR in Tapovan." },
+      { "category": "planning", "text": "Rafting shuts during heavy monsoon (July-August) and for a stretch after Diwali - confirm the water release schedule with your operator the day before." },
+      { "category": "safety", "text": "Only raft with a government-registered operator wearing a helmet and life jacket; the Marine Drive stretch has the strongest rapids." }
+    ]
+  },
+  {
+    "slug": "leh-ladakh",
+    "name": "Leh Ladakh",
+    "state": "Ladakh (UT)",
+    "region": "North India",
+    "category": "Adventure",
+    "bestTime": "May to September",
+    "budgetPerPerson": 28000,
+    "rating": 4.9,
+    "image": "https://images.pexels.com/photos/17033846/pexels-photo-17033846.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "tags": "pangong,nubra,khardung la,bike trip,high altitude,lakes,monastery,broza,inner line permit",
+    "description": "A cold desert at 3500 m with turquoise high-altitude lakes, the world's highest motorable passes, monasteries and the classic Delhi-Leh bike or road trip.",
+    "context": "Leh is at 3500 m and acclimatisation is the single biggest factor: fly in, then rest a full 24 hours with no sightseeing, hydrate 4 litres a day, avoid alcohol, and consider Diamox after consulting a doctor. Inner Line Permit is required for Nubra, Pangong, Tso Moriri, Hanle and Khardung La - apply online at leh.nic.in or through any Leh travel agent for 400 INR per person plus environment fee, valid for 7 days, carry ID and 3 photocopies. Itinerary shape: Day 1-2 Leh town (Shanti Stupa, Leh Palace, Hall of Fame, Sankar monastery, Main Bazaar); Day 3-4 Nubra valley via Khardung La 5359 m (Hunder sand dunes and double-humped camel safari 400 INR, Diskit monastery, Turtuk village near the LoC); Day 5-6 Pangong Tso via Shyok (lake stays at Spangmik or Lukung, sunrise and sunset colours are the reward); Day 7 Tso Moriri or Hanle for astrotourism if you have 10+ days; monasteries: Thiksey (morning prayer at 7 am), Hemis (festival in June-July), Shey Palace, Lamayuru on the Srinagar side. Roads: Manali-Leh 470 km open June to September via Rohtang, Baralacha La, Tanglang La; Srinagar-Leh 430 km open April to November. Bikes: rent a Royal Enfield 350 in Leh at 1800-2500 INR per day - bikes rented outside Ladakh are not allowed on internal Ladakh routes. Fuel is available only at Leh, Diskit, Karu and Chumathang, so plan. Food: momos, thukpa, skyu, butter tea at Leh cafes; carry snacks for long hauls. Stays: Leh guesthouses 1500-3500 INR, Pangong eco-huts 3000-5000 INR, luxury Stok Palace 22000 INR. Minimum 6 nights, 8-9 nights for the full lake and valley circuit. Network: only BSNL and Airtel postpaid work, and mostly in Leh and Diskit.",
+    "hotels": [
+      { "name": "The Grand Dragon Ladakh", "area": "Leh, near airport road", "tier": "luxury", "pricePerNight": 13500, "rating": 4.6, "note": "Only full-service hotel in Leh, oxygen cylinders on request" },
+      { "name": "Stok Palace Heritage", "area": "Stok village, 15 km from Leh", "tier": "luxury", "pricePerNight": 22000, "rating": 4.7, "note": "Royal Namgyal residence with museum and mountain lawns" },
+      { "name": "Zostel Ladakh (Choglamsar)", "area": "Choglamsar, 6 km from Leh", "tier": "budget", "pricePerNight": 1500, "rating": 4.5, "note": "Hostel with heated common room, bike rentals arranged" },
+      { "name": "Spangmik eco-huts", "area": "Pangong Tso lakeside", "tier": "mid-range", "pricePerNight": 4200, "rating": 4.2, "note": "Front-row lake views, no heating at night, shared hot water" }
+    ],
+    "places": [
+      { "name": "Pangong Tso", "category": "nature", "timeNeeded": "2 days", "entryFee": "400 INR inner line permit plus environment fee", "description": "4270 m blue lake on the Tibet border, 160 km from Leh via Shyok, stay overnight for sunrise." },
+      { "name": "Nubra Valley and Hunder sand dunes", "category": "nature", "timeNeeded": "2 days", "entryFee": "Permit required", "description": "Cold desert with double-humped Bactrian camel rides at 400 INR and Diskit monastery." },
+      { "name": "Khardung La", "category": "sightseeing", "timeNeeded": "45 minutes", "entryFee": "Permit required", "description": "Motorable pass claimed at 5359 m between Leh and Nubra, cafe and photo stop." },
+      { "name": "Thiksey Monastery", "category": "heritage", "timeNeeded": "2 hours", "entryFee": "50 INR", "description": "12-storey Potala-like monastery; the 7 am prayer session is the highlight." },
+      { "name": "Magnetic Hill and Sangam", "category": "sightseeing", "timeNeeded": "2 hours", "entryFee": "Free", "description": "Optical-illusion uphill road plus the Indus-Zanskar river confluence on the Srinagar highway." },
+      { "name": "Shanti Stupa and Leh Palace", "category": "heritage", "timeNeeded": "2 hours", "entryFee": "Stupa free, palace 30 INR", "description": "White dome with panoramic Leh views and the 17th century ruined royal palace." },
+      { "name": "Turtuk village", "category": "culture", "timeNeeded": "half day", "entryFee": "Permit required", "description": "Balti Muslim village near the LoC with apricot orchards and heritage houses." }
+    ],
+    "tips": [
+      { "category": "health", "text": "Do not sightsee on the day you land at 3500 m - rest 24 hours, drink 4 litres of water, and descend immediately if you vomit or feel confused." },
+      { "category": "permits", "text": "Apply for the Inner Line Permit online at leh.nic.in or through a Leh agent 2 days before the Nubra and Pangong legs; carry 3 ID photocopies." },
+      { "category": "transport", "text": "Bikes rented in Manali or Srinagar are banned on internal Ladakh routes - rent inside Leh at 1800-2500 INR per day and refuel at Leh, Diskit or Karu only." },
+      { "category": "planning", "text": "Only BSNL and Airtel postpaid work in Ladakh, and mostly in Leh - download offline maps, carry 10000 INR cash and a power bank." }
+    ]
+  },
+  {
+    "slug": "darjeeling",
+    "name": "Darjeeling",
+    "state": "West Bengal",
+    "region": "East India",
+    "category": "Hill Station",
+    "bestTime": "March to May, September to November",
+    "budgetPerPerson": 10000,
+    "rating": 4.6,
+    "image": "https://images.pexels.com/photos/16889248/pexels-photo-16889248.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "tags": "tea gardens,toy train,kanchenjunga,tiger hill,peace pagoda,mall road,sikkim,trek",
+    "description": "Tea-garden hill town with Kangchenjunga sunrises, a UNESCO toy train and easy pairing with Sikkim's Gangtok.",
+    "context": "Darjeeling sits at 2042 m in the eastern Himalayas and is usually clubbed with Gangtok (98 km, 4-5 hours) and Pelling or Ravangla for a 6-7 night Sikkim-Bengal loop. Must-dos: Tiger Hill sunrise 11 km away (leave by 3:45 am, jeep 2500 INR shared, entry 50-100 INR, Kangchenjunga view depends on clear weather - March-May and October-November are best), Darjeeling Himalayan Railway toy train joy ride from Darjeeling to Ghum (800-1500 INR, 2 hours, book on IRCTC), Batasia Loop, Happy Valley or Glenary tea estate tour and factory walk (100-200 INR, plus tasting), Peace Pagoda (Japanese temple, free), Himalayan Mountaineering Institute and Padmaja Naidu Zoo with the red panda and snow leopard (150 INR, closed Thursday), Rock Garden and Barbotey, Mall Road and Chowrasta, Japanese Temple, and the Singalila Ridge trek to Sandakphu (4-6 days, permits required) for four 8000 m peaks. Food: momos and thukpa at Keventers and Glenary's, churpee, sel roti, and Darjeeling first-flush tea. Reach via Bagdogra airport 70 km (taxi 2500-3000 INR, 3 hours) or New Jalpaiguri railway station 65 km; shared jeeps from NJP are 350 INR. Stays: Chowrasta heritage hotels 4000-9000 INR, tea-estate bungalows 8000 INR, budget 1500 INR. Three nights in Darjeeling plus three in Gangtok is the classic plan. Landslides close the NJP road in monsoon - keep buffer days in June to September.",
+    "hotels": [
+      { "name": "Mayfair Darjeeling", "area": "The Mall, Chowrasta", "tier": "luxury", "pricePerNight": 12500, "rating": 4.6, "note": "Heritage property with fireplace lounge and valley lawns" },
+      { "name": "Cedar Inn", "area": "Observatory Hill road", "tier": "mid-range", "pricePerNight": 5200, "rating": 4.3, "note": "Mountain-view rooms, 10 minutes walk from Mall Road" },
+      { "name": "Revolver Hotel", "area": "Gandhi Road, below the Mall", "tier": "budget", "pricePerNight": 1600, "rating": 4.2, "note": "Small clean rooms, popular with backpackers and trekkers" }
+    ],
+    "places": [
+      { "name": "Tiger Hill sunrise", "category": "sightseeing", "timeNeeded": "4 hours", "entryFee": "50-100 INR plus jeep share", "description": "3:45 am departure for a 2590 m viewpoint with Kangchenjunga at first light." },
+      { "name": "Darjeeling Himalayan Railway joy ride", "category": "experience", "timeNeeded": "2 hours", "entryFee": "800-1500 INR", "description": "UNESCO steam or diesel toy train to Ghum station and Batasia Loop." },
+      { "name": "Happy Valley Tea Estate", "category": "culture", "timeNeeded": "2 hours", "entryFee": "100-200 INR", "description": "Working 1854 tea garden above town with plucking demonstrations and tasting." },
+      { "name": "Padmaja Naidu Zoo and HMI", "category": "nature", "timeNeeded": "3 hours", "entryFee": "150 INR, closed Thursday", "description": "High-altitude zoo with red pandas plus the Himalayan Mountaineering Institute museum." },
+      { "name": "Peace Pagoda", "category": "spiritual", "timeNeeded": "1 hour", "entryFee": "Free", "description": "White Japanese Buddhist stupa with drum ceremonies and valley views." },
+      { "name": "Batasia Loop and War Memorial", "category": "sightseeing", "timeNeeded": "45 minutes", "entryFee": "Free", "description": "Spiral railway loop with gardens and a direct Kangchenjunga sightline." }
+    ],
+    "tips": [
+      { "category": "planning", "text": "Tiger Hill is a weather lottery - keep two mornings free in Darjeeling and book the shared jeep the night before at 2500 INR." },
+      { "category": "transport", "text": "Bagdogra or NJP to Darjeeling takes 3 hours on a winding road; travel-sick passengers should sit in front and avoid night arrivals." },
+      { "category": "money", "text": "Toy train joy-ride tickets open on IRCTC 30 days ahead and the Ghum steam service sells out - book online rather than at the counter." }
+    ]
+  },
+  {
+    "slug": "ooty",
+    "name": "Ooty",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "category": "Hill Station",
+    "bestTime": "October to June",
+    "budgetPerPerson": 9000,
+    "rating": 4.4,
+    "image": "https://images.pexels.com/photos/35347824/pexels-photo-35347824.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "tags": "nilgiris,tea garden,botanical garden,toy train,coonoor,pykara,eucalyptus,south india",
+    "description": "Queen of the Nilgiris with eucalyptus-scented air, tea estates, a UNESCO mountain railway and quieter Coonoor and Kotagiri neighbours.",
+    "context": "Ooty (Udhagamandalam) is at 2240 m in the Nilgiri biosphere and pairs with Coonoor 19 km, Kotagiri 30 km and the Mudumalai forest 65 km. Sights: Government Botanical Garden 1848 (150 INR, flower show in May), Ooty Lake and Paddle Point boating (200-400 INR, crowded on weekends), Doddabetta Peak 2623 m (telescope house 20 INR), Tea Factory and Tea Museum (150 INR with tasting), Rose Garden, Pykara Lake and Pykara waterfalls 22 km (boat 400 INR, best after monsoon), Wenlock Downs (the 'shooting medu' grasslands used for film songs), Avalanche Lake (permit and forest department timing applies), Stone House, St Stephen's Church, and the tribal museum. The Nilgiri Mountain Railway toy train from Mettupalayam to Ooty takes 5 hours through 16 tunnels and 250 bridges (350-850 INR, book on IRCTC 30-120 days ahead; the Coonoor section is easier to get). Wildlife: Mudumalai and Bandipur tiger reserves for elephant and gaur sightings, safari 300-600 INR per person. Reach by Coimbatore airport 88 km (taxi 2500 INR) or Bangalore 270 km overnight bus (900-1800 INR, 7 hours). Food: homemade chocolate shops on Charring Cross, Ooty varkey bread, Toda cuisine, filter coffee, eucalyptus oil and honey from government outlets. Stays: heritage hotels near the lake 5000-12000 INR, tea-estate bungalows in Coonoor 4500 INR, budget 1500 INR. Three nights (two Ooty, one Coonoor) is ideal; nights drop to 5 C in December-January, so pack woolens.",
+    "hotels": [
+      { "name": "Savoy Hotel by IHCL", "area": "Sylks Road, near Botanical Garden", "tier": "luxury", "pricePerNight": 11500, "rating": 4.6, "note": "1930s colonial cottages in 9 acres of garden" },
+      { "name": "Sterling Ooty Elk Hill", "area": "Elk Hill, 2 km from bus stand", "tier": "mid-range", "pricePerNight": 5400, "rating": 4.3, "note": "Valley-view rooms, heating available in winter" },
+      { "name": "Hotel Darshan", "area": "Charring Cross", "tier": "budget", "pricePerNight": 1700, "rating": 4.0, "note": "Central, walking distance to the chocolate shops and bus stand" }
+    ],
+    "places": [
+      { "name": "Government Botanical Garden", "category": "nature", "timeNeeded": "2 hours", "entryFee": "150 INR", "description": "1848 terraced garden with a 20-million-year-old fossil tree and May flower show." },
+      { "name": "Doddabetta Peak", "category": "sightseeing", "timeNeeded": "1.5 hours", "entryFee": "20 INR telescope", "description": "2623 m highest Nilgiri point with a telescope house and valley views." },
+      { "name": "Nilgiri Mountain Railway toy train", "category": "experience", "timeNeeded": "5 hours", "entryFee": "350-850 INR", "description": "UNESCO rack railway from Mettupalayam through 16 tunnels and 250 bridges." },
+      { "name": "Pykara Lake and waterfalls", "category": "nature", "timeNeeded": "half day", "entryFee": "Boat 400 INR", "description": "Cascade river with boating and a pine forest drive 22 km from town." },
+      { "name": "Wenlock Downs and Shooting Medu", "category": "nature", "timeNeeded": "2 hours", "entryFee": "Free", "description": "Rolling grassland meadows famous for film shoots and short hikes." },
+      { "name": "Mudumalai Tiger Reserve safari", "category": "wildlife", "timeNeeded": "half day", "entryFee": "300-600 INR", "description": "Elephant, gaur and leopard territory 65 km out with 6 am and 3 pm safaris." }
+    ],
+    "tips": [
+      { "category": "planning", "text": "Ooty town jams badly in May, October holidays and weekends - stay in Coonoor or Kotagiri for quiet mornings and drive in only for sightseeing." },
+      { "category": "booking", "text": "Nilgiri toy train tickets open 30-120 days ahead on IRCTC; the Mettupalayam-Ooty rack section is nearly impossible last minute, so try Coonoor to Ooty." },
+      { "category": "shopping", "text": "Buy tea, eucalyptus oil and honey only from the Government Tea Society or Nilgiri Tea Board outlets - roadside 'first flush' packets are usually ordinary dust tea." }
+    ]
+  },
+  {
+    "slug": "mumbai",
+    "name": "Mumbai",
+    "state": "Maharashtra",
+    "region": "West India",
+    "category": "City Break",
+    "bestTime": "November to February",
+    "budgetPerPerson": 11000,
+    "rating": 4.6,
+    "image": "https://images.pexels.com/photos/38994764/pexels-photo-38994764.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "tags": "gateway of india,marine drive,elephanta,bollywood,dharavi,colaba,street food,art deco",
+    "description": "India's maximum city: Art Deco seafronts, Elephanta caves, Bollywood tours, Dharavi and the best street food in the country.",
+    "context": "Mumbai is best planned by neighbourhood: Colaba and Fort (Gateway of India 6 am to 9 pm free, Taj Mahal Palace hotel, Elephanta Caves ferry 205 INR return from the Gateway plus 600 INR cave entry, closed Monday, first ferry 9 am, 1 hour crossing; Chhatrapati Shivaji Maharaj Vastu Sangrahalaya 300 INR closed Monday; Kala Ghoda art precinct), Marine Drive and Chowpatty (3.6 km sea-facing promenade, best at sunset, plus the UNESCO Art Deco belt), Bandra (Mount Mary church, Bandstand, Carter Road, the Bandra-Worli Sea Link), Worli and Mahalaxmi (Haji Ali dargah on a causeway, Mahalaxmi temple, Worli Sea Face), Juhu and Andheri (beach chaat, Film City and Bollywood studio tours 1500-3500 INR, celebrity homes on a 2-hour drive), Dharavi (ethical small-group tours 2500-4000 INR that support local schools), Sanjay Gandhi National Park with the Kanheri caves and lion safari in Borivali, and the Global Vipassana Pagoda in Gorai. Food: vada pav at Ashok Vada Pav in Kirti College Lane, pav bhaji at Sardar in Tardeo, sandwiches at Bombay Sandwich Co, seafood at Trupti and Mahesh Lunch Home, Irani chai and bun maska at Kyani and Co, Parsi dhansak at Britannia. Local trains are the fastest way to move north-south (10-30 INR, avoid the ladies' and first-class rush at 8-11 am and 6-9 pm); Uber and Ola work well but Marine Drive to Bandra takes 60-90 minutes at peak. Stays: Colaba guesthouses 2500-5000 INR, Marine Drive hotels 9000 INR, Bandra boutiques 6000 INR. Three nights minimum, four if you want Elephanta plus a Bollywood tour. Monsoon June to September floods low-lying roads - avoid those weeks for sightseeing.",
+    "hotels": [
+      { "name": "The Taj Mahal Palace", "area": "Apollo Bunder, Colaba", "tier": "luxury", "pricePerNight": 28000, "rating": 4.8, "note": "1903 landmark facing the Gateway of India, harbour-view rooms" },
+      { "name": "Hotel Suba Palace", "area": "Colaba Causeway", "tier": "mid-range", "pricePerNight": 4200, "rating": 4.1, "note": "Walkable to the Gateway, Kala Ghoda and ferry jetty" },
+      { "name": "Salvation Army Red Shield Guest House", "area": "Colaba, near Regal Cinema", "tier": "budget", "pricePerNight": 1500, "rating": 4.3, "note": "Famous cheap clean rooms, no advance booking, arrive early" }
+    ],
+    "places": [
+      { "name": "Gateway of India and Taj hotel", "category": "heritage", "timeNeeded": "1 hour", "entryFee": "Free", "description": "1924 basalt arch on Apollo Bunder, best at dawn before the crowds." },
+      { "name": "Elephanta Caves", "category": "heritage", "timeNeeded": "half day", "entryFee": "Ferry 205 INR, cave entry 600 INR, closed Monday", "description": "UNESCO 6th century Shiva rock-cut caves on Gharapuri island, 9 am first ferry." },
+      { "name": "Marine Drive and Chowpatty", "category": "sightseeing", "timeNeeded": "2 hours", "entryFee": "Free", "description": "Queen's Necklace promenade and the UNESCO Art Deco row, magical after sunset." },
+      { "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya", "category": "heritage", "timeNeeded": "2 hours", "entryFee": "300 INR, closed Monday", "description": "Indo-Saracenic museum with Indus Valley, Buddhist and Mughal galleries." },
+      { "name": "Dharavi ethical tour", "category": "culture", "timeNeeded": "2.5 hours", "entryFee": "2500-4000 INR", "description": "Recycling, leather and pottery workshops with profits going to local schools." },
+      { "name": "Bandra Sea Link and Bandstand", "category": "sightseeing", "timeNeeded": "2 hours", "entryFee": "Toll for cars", "description": "Cable-stayed bridge drive plus the celebrity-lined Bandra promenade." }
+    ],
+    "tips": [
+      { "category": "transport", "text": "Local trains beat cabs between 8-11 am and 6-9 pm; buy a first-class or ladies' ticket and avoid the peak rush compartments entirely." },
+      { "category": "planning", "text": "Museums and Elephanta close on Mondays - use Monday for Marine Drive, Bandra and a Bollywood studio tour instead." },
+      { "category": "money", "text": "Taxis quote fixed airport-to-Colaba fares around 700 INR; insist on the meter or use Uber and Ola from the prepaid counter." },
+      { "category": "safety", "text": "During the June-September monsoon, low-lying roads in Sion, Kurla and Andheri waterlog - keep hotel bookings flexible those weeks." }
+    ]
+  },
+  {
+    "slug": "delhi",
+    "name": "Delhi",
+    "state": "Delhi NCT",
+    "region": "North India",
+    "category": "City Break",
+    "bestTime": "October to March",
+    "budgetPerPerson": 8000,
+    "rating": 4.6,
+    "image": "https://images.pexels.com/photos/30665395/pexels-photo-30665395.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "tags": "red fort,qutub minar,humayun tomb,india gate,chandni chowk,metro,unesco,food walk",
+    "description": "Seven historic cities in one metro-connected capital: Mughal monuments, Lutyens' Delhi, Chandni Chowk food and a stopover hub for everything north.",
+    "context": "Delhi is split into Old Delhi (Red Fort 35 INR, closed Monday, Jama Masjid free with a 300 INR camera fee, Chandni Chowk and Paranthe Wali Gali, Gurudwara Sis Ganj) and New Delhi (India Gate, Rashtrapati Bhavan and Kartavya Path, Humayun's Tomb 600 INR for foreigners and 40 INR for Indians, Qutub Minar 600 INR foreign / 35 INR Indian, closed for climbing, Lodhi Art District and Lodhi Garden free, Safdarjung Tomb 35 INR, Lotus Temple free, Akshardham 0 INR entry with a paid exhibition, closed Monday). Museums: National Museum (650 INR foreign, closed Monday), Gandhi Smriti (free, closed Monday), National Rail Museum, Crafts Museum. Day trips: Agra 230 km via Gatimaan Express (1 h 58 m), Jaipur 280 km (Vande Bharat 3 h 40 m), Rishikesh-Haridwar 250 km, Neemrana Fort 150 km. Metro is the fastest transport (10-60 INR, 6 am to 11 pm, women's coaches at the front of every train); Uber and Ola work but Connaught Place to South Extension can take 50 minutes at peak. Food: parantha and jalebi in Chandni Chowk, kebabs at Karim's and Al-Jawahar near Jama Masjid, butter chicken origins at Moti Mahal in Daryaganj, chaat at Bengali Market, Sufi and Mughlai at Kuremal Mohan Lal, modern Indian at Indian Accent and Bukhara. Stays: Paharganj budget 1200-2500 INR near the New Delhi station, Connaught Place 5000-12000 INR, South Delhi boutiques 6000 INR. Three nights covers Old plus New Delhi plus one Agra day trip. Air quality is hazardous November to January - pack N95 masks and plan outdoor monuments for the morning.",
+    "hotels": [
+      { "name": "The Imperial New Delhi", "area": "Janpath, Connaught Place", "tier": "luxury", "pricePerNight": 22000, "rating": 4.7, "note": "1931 Lutyens-era landmark with colonial art and the 1911 restaurant" },
+      { "name": "Hotel Ajanta", "area": "Paharganj, near New Delhi station", "tier": "budget", "pricePerNight": 2200, "rating": 4.2, "note": "Reliable budget rooms 5 minutes from the airport express metro" },
+      { "name": "The Lodhi", "area": "Lodhi Road, South Delhi", "tier": "luxury", "pricePerNight": 19000, "rating": 4.6, "note": "Member's Club style hotel beside Lodhi Garden and the art district" }
+    ],
+    "places": [
+      { "name": "Red Fort (Lal Qila)", "category": "heritage", "timeNeeded": "3 hours", "entryFee": "35 INR Indian, 500 INR foreign, closed Monday", "description": "Shah Jahan's 1648 sandstone fort with Diwan-i-Aam, Diwan-i-Khas and the evening light-and-sound show." },
+      { "name": "Humayun's Tomb", "category": "heritage", "timeNeeded": "2 hours", "entryFee": "40 INR Indian, 600 INR foreign", "description": "UNESCO garden tomb that inspired the Taj Mahal, best in late afternoon." },
+      { "name": "Qutub Minar complex", "category": "heritage", "timeNeeded": "2 hours", "entryFee": "35 INR Indian, 600 INR foreign", "description": "72.5 m 1199 victory tower with the Iron Pillar and Alai Darwaza carvings." },
+      { "name": "India Gate and Kartavya Path", "category": "sightseeing", "timeNeeded": "1 hour", "entryFee": "Free", "description": "1931 war memorial arch, floodlit at night with lawn picnic culture." },
+      { "name": "Jama Masjid and Chandni Chowk food walk", "category": "food", "timeNeeded": "3 hours", "entryFee": "Free, camera 300 INR", "description": "India's largest mosque plus Paranthe Wali Gali, Karim's and jalebi lanes." },
+      { "name": "Akshardham Temple", "category": "spiritual", "timeNeeded": "3 hours", "entryFee": "Free entry, exhibitions 170-450 INR, closed Monday", "description": "Sandstone temple complex with boat ride, Sahaj Anand water show at 7 pm." },
+      { "name": "Lodhi Art District", "category": "culture", "timeNeeded": "1.5 hours", "entryFee": "Free", "description": "Open-air street-art murals around the 15th century Lodhi tombs and garden." }
+    ],
+    "tips": [
+      { "category": "planning", "text": "Almost every monument and museum closes on Monday - plan Lodhi Garden, markets and food walks for that day." },
+      { "category": "transport", "text": "Use the Airport Express line from T3 to New Delhi station (60 INR, 19 minutes) instead of a prepaid taxi at peak traffic hours." },
+      { "category": "health", "text": "Air quality hits hazardous AQI from November to January; wear an N95, do monuments early morning and avoid outdoor exercise after 8 pm." },
+      { "category": "safety", "text": "Refuse 'closed monument' or 'government holiday' claims from auto drivers near Connaught Place - it is a classic redirection scam." }
+    ]
+  },
+  {
+    "slug": "amritsar",
+    "name": "Amritsar",
+    "state": "Punjab",
+    "region": "North India",
+    "category": "Spiritual",
+    "bestTime": "October to March",
+    "budgetPerPerson": 7000,
+    "rating": 4.7,
+    "image": "https://images.pexels.com/photos/36613136/pexels-photo-36613136.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "tags": "golden temple,wagah border,jallianwala bagh,langar,partition museum,punjab food",
+    "description": "The Golden Temple city - 24-hour gurdwara darshan, free langar for 100,000 people a day, Wagah border ceremony and Punjabi food.",
+    "context": "Amritsar is a 2-night trip centred on Sri Harmandir Sahib (Golden Temple), open 24 hours with free entry; the Palki Sahib ceremony carries the Guru Granth Sahib out at around 4 am and back at 10:30 pm, and the langar serves free vegetarian meals to 100,000 people daily (volunteer for 30 minutes in the kitchen - it is one of the best experiences in India). Head cover is compulsory (scarves available free at the entrance), feet must be washed in the shallow channel, shorts and skirts are not allowed, no photography inside the sanctum, and phone lockers are free. Around it: Akal Takht, Sarais for pilgrim stays (free or donation-based, book through the SGPC office), Gurdwara Durgiana (the Hindu 'silver temple'), and the heritage street bazaar. Other sights: Jallianwala Bagh (free, renovated memorial with the light-and-sound show at 6:30 pm), Partition Museum in Town Hall (250 INR, closed Monday, allow 2 hours - it is India's best museum), Wagah-Attari border Beating Retreat 32 km (starts 45 minutes before sunset, free, reach 90 minutes early for good seating, closed on some national days), Ram Tirath temple, and the Summer Palace of Maharaja Ranjit Singh. Food: kulcha-chhole at Bhai Kulwant Singh and Gurtej, Amritsari fish at Makhan Fish, lassi at Ahuja, tandoori chicken at Beera's, and dal makhani. Reach via Sri Guru Ram Dass Jee airport 13 km, Amritsar Junction, or the Delhi-Amritsar Shatabdi and Vande Bharat (6 hours). Stays: SGPC sarais 500-1500 INR within the complex, hotels near Town Hall 2500-5000 INR, luxury ITC Amar 12000 INR. Two nights covers the temple, Wagah, Partition Museum and Jallianwala Bagh; winters drop to 2 C and dense fog delays trains and flights in December-January.",
+    "hotels": [
+      { "name": "ITC Amar (Taj group)", "area": "Mall Road", "tier": "luxury", "pricePerNight": 11500, "rating": 4.6, "note": "Colonial-style luxury with Peshawri restaurant" },
+      { "name": "Hotel Shiraz Regency", "area": "Near Golden Temple gate", "tier": "mid-range", "pricePerNight": 3400, "rating": 4.3, "note": "Rooftop view of the Harmandir Sahib dome" },
+      { "name": "SGPC Sarai (Guru Ram Das Niwas)", "area": "Inside the temple complex", "tier": "budget", "pricePerNight": 800, "rating": 4.4, "note": "Pilgrim rooms at donation rates, book through the SGPC office" }
+    ],
+    "places": [
+      { "name": "Sri Harmandir Sahib (Golden Temple)", "category": "spiritual", "timeNeeded": "3 hours", "entryFee": "Free, open 24 hours", "description": "Gold-plated sanctum in the Amrit sarovar; head cover, modest dress and no photos inside." },
+      { "name": "Guru ka Langar", "category": "culture", "timeNeeded": "1 hour", "entryFee": "Free, donations welcome", "description": "World's largest free kitchen serving 100,000 meals a day, volunteers welcome." },
+      { "name": "Wagah-Attari border ceremony", "category": "culture", "timeNeeded": "3 hours", "entryFee": "Free", "description": "Beating Retreat drill 32 km away, starts 45 minutes before sunset, arrive 90 minutes early." },
+      { "name": "Jallianwala Bagh", "category": "heritage", "timeNeeded": "1.5 hours", "entryFee": "Free", "description": "1919 massacre memorial garden with the Martyrs' Well and 6:30 pm sound-and-light show." },
+      { "name": "Partition Museum", "category": "heritage", "timeNeeded": "2 hours", "entryFee": "250 INR, closed Monday", "description": "Town Hall museum of 1947 partition survivor testimonies, photos and artefacts." },
+      { "name": "Gurdwara Durgiana", "category": "spiritual", "timeNeeded": "1 hour", "entryFee": "Free", "description": "Silver-plated Hindu temple modelled on the Golden Temple, 1.5 km away." }
+    ],
+    "tips": [
+      { "category": "planning", "text": "Do the 4 am Palki Sahib or the 10:30 pm Sukhasan ceremony for an empty, moving Golden Temple visit instead of the midday crush." },
+      { "category": "transport", "text": "Leave for Wagah by 2 pm - security checks and seating fill 90 minutes before sunset, and the shared taxi costs 200-300 INR per person." },
+      { "category": "money", "text": "Skip the 'special darshan' touts outside the complex; Harmandir Sahib entry is always free and the langar never turns anyone away." },
+      { "category": "planning", "text": "December-January fog delays flights and trains by 3-6 hours and temperatures fall to 2 C - keep a buffer day if you are connecting." }
+    ]
+  },
+  {
+    "slug": "kerala",
+    "name": "Kerala (Munnar-Alleppey-Kochi)",
+    "state": "Kerala",
+    "region": "South India",
+    "category": "Nature",
+    "bestTime": "September to March",
+    "budgetPerPerson": 15000,
+    "rating": 4.8,
+    "image": "https://images.pexels.com/photos/35347836/pexels-photo-35347836.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "tags": "backwaters,houseboat,munnar tea,kochi fort,ayurveda,alleppey,wayanad,varkala,god's own country",
+    "description": "God's Own Country: tea-highland Munnar, Alleppey backwater houseboats, Fort Kochi's colonial lanes, Ayurveda and Varkala's cliff beach.",
+    "context": "The classic Kerala loop is Kochi to Munnar to Thekkady to Alleppey, 6-7 nights, all connected by 3-5 hour drives. Munnar (1600 m): tea plantations and the Tea Museum (125 INR), Eravikulam National Park for the endangered Nilgiri tahr (150 INR, closed February-March for calving), Mattupetty dam, Top Station, Anayirangal, Kolukkumalai sunrise jeep, and Neelakurinji blooms every 12 years. Thekkady (Periyar): boat safari on Periyar Lake for elephants and gaur (250 INR plus 250 INR boat, 7:30 am and 2 pm slots), spice plantation walks, bamboo rafting, and Kalari martial arts shows (300 INR). Alleppey and Kumarakom: overnight houseboats (AC cabin 6500-12000 INR per couple with all meals, non-AC 4500 INR; the boat docks from 5:30 pm to 8 am for fishing regulations, so it is not a moving cruise all night), 3-hour day cruise 1500 INR per person, canoe village tours 700 INR, Marari beach. Kochi: Fort Kochi and Mattancherry (Chinese fishing nets, Jew Town antique shops, Paradesi Synagogue 100 INR closed Friday-Saturday and Jewish holidays, St Francis Church, Santa Cruz Basilica, Dutch Palace 5 INR closed Monday, Kathakali and Kalaripayattu shows 300-500 INR at 5 pm, Kochi-Muziris Biennale in season, Willingdon Island). Varkala: cliff-top beach and Janardanaswamy temple, ayurvedic massage 800-2000 INR. Ayurveda: 7-day panchakarma packages 18000-40000 INR at certified centres; check government accreditation. Food: appam with stew, karimeen pollichathu (pearl spot fish in banana leaf), Kerala sadya on a banana leaf, Thalassery biryani, toddy-shop meals, filter coffee. Reach via Kochi (COK), Trivandrum (TRV) or Calicut (CCJ) airports; KSRTC and private buses are cheap, and a private cab for the whole loop costs 4500-6000 INR per day. Stays: Munnar plantation bungalows 4000-9000 INR, Alleppey houseboats 6500 INR, Fort Kochi heritage homes 3500-8000 INR, budget homestays 1200 INR. Monsoon June-August turns everything green but many treks and the Periyar boat close.",
+    "hotels": [
+      { "name": "Kumarakom Lake Resort", "area": "Kumarakom, Vembanad Lake", "tier": "luxury", "pricePerNight": 24000, "rating": 4.7, "note": "Heritage villa complex with private pool and ayurveda spa" },
+      { "name": "Windermere Estate", "area": "Kadanthrapara, Munnar", "tier": "luxury", "pricePerNight": 15000, "rating": 4.8, "note": "Cardamom plantation bungalow, four rooms only, book early" },
+      { "name": "Alleppey AC houseboat (1 bedroom)", "area": "Alleppey backwaters", "tier": "mid-range", "pricePerNight": 8500, "rating": 4.4, "note": "12 pm check-in, all meals, docks 5:30 pm to 8 am" },
+      { "name": "Zostel Munnar / Fort Kochi homestay", "area": "Munnar or Fort Kochi", "tier": "budget", "pricePerNight": 1400, "rating": 4.3, "note": "Hostel beds and heritage homestays within walking distance of sights" }
+    ],
+    "places": [
+      { "name": "Alleppey backwater houseboat", "category": "experience", "timeNeeded": "22 hours", "entryFee": "6500-12000 INR per cabin", "description": "Overnight kettuvallam cruise with all meals through Vembanad's canals and paddy fields." },
+      { "name": "Eravikulam National Park", "category": "wildlife", "timeNeeded": "3 hours", "entryFee": "150 INR plus bus", "description": "Nilgiri tahr habitat above Munnar, closed February-March for calving season." },
+      { "name": "Periyar Lake boat safari", "category": "wildlife", "timeNeeded": "2 hours", "entryFee": "250 INR entry plus 250 INR boat", "description": "7:30 am slot for elephant and gaur sightings along Thekkady's forest shoreline." },
+      { "name": "Fort Kochi and Jew Town", "category": "heritage", "timeNeeded": "half day", "entryFee": "Free; synagogue 100 INR", "description": "Chinese fishing nets, Paradesi Synagogue, Dutch Palace, antique lanes and 5 pm Kathakali." },
+      { "name": "Munnar tea estates and Tea Museum", "category": "culture", "timeNeeded": "3 hours", "entryFee": "125 INR", "description": "Rolling plantation vistas, factory demonstrations and CTC tea tasting." },
+      { "name": "Varkala cliff beach", "category": "beach", "timeNeeded": "half day", "entryFee": "Free", "description": "Laterite cliff promenade over an open beach, ayurveda centres and sunset cafes." }
+    ],
+    "tips": [
+      { "category": "booking", "text": "Houseboats legally dock from 5:30 pm to 8 am - if you want to keep moving, book a day cruise (1500 INR) for the morning and the houseboat for the night." },
+      { "category": "transport", "text": "A private AC cab for the Kochi-Munnar-Thekkady-Alleppey loop costs 4500-6000 INR per day including fuel and driver; Kerala hill roads are slow, so never plan more than 120 km per day." },
+      { "category": "health", "text": "Choose only government-accredited ayurveda centres for panchakarma, and expect 7 days minimum for a genuine treatment rather than a 90-minute massage." },
+      { "category": "planning", "text": "June-August monsoon closes Periyar boats and high-range treks; September-March is the sweet spot, and Onam in August-September means peak prices." }
+    ]
+  },
+  {
+    "slug": "andaman",
+    "name": "Andaman Islands",
+    "state": "Andaman & Nicobar (UT)",
+    "region": "Islands",
+    "category": "Beach",
+    "bestTime": "October to May",
+    "budgetPerPerson": 24000,
+    "rating": 4.7,
+    "image": "https://images.pexels.com/photos/35347815/pexels-photo-35347815.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "tags": "scuba,havelock,neil island,cellular jail,radhanagar beach,port blair,glass bottom,snorkel",
+    "description": "Tropical Indian islands with Radhanagar beach, Cellular Jail history, and some of Asia's best-value scuba diving around Havelock and Neil.",
+    "context": "The Andaman trip is built around Port Blair (2 nights), Havelock / Swaraj Dweep (2-3 nights) and Neil / Shaheed Dweep (1 night), 5-6 nights total. Port Blair: Cellular Jail and the 6 pm Light and Sound show (300 INR, book the English show), Corbyn's Cove beach, Samudrika Naval Marine Museum, Chidiya Tapu sunset and mangrove kayak 30 km, North Bay for glass-bottom boat and sea walk, Ross Island / Netaji Subhash Chandra Dweep ruins (boat 350 INR), Jolly Buoy or Red Skin island for snorkelling (permit required, closed for ecological rest on some days). Havelock: Radhanagar Beach (Asia's best beach, sunset 5:30 pm), Elephant Beach for snorkelling (boat 800 INR or a 1.6 km jungle trek), Kalapathar Beach, and diving - PADI/SSI discover scuba 3500-5000 INR for a 20-minute shallow dive with no certification needed, Open Water course 32000-40000 INR over 3-4 days, fun dives 3500-5500 INR per dive for certified divers at sites like Aquarium, Johnny's Gorge and Dixon's Pinnacle. Neil Island: Bharatpur beach, Natural Bridge (only at low tide), Laxmanpur sunset point, cycling around the island. Ferries: government ferries 450-1200 INR (book at the Port Blair jetty counter, sell out in season) or private Makruzz, Green Ocean and Nautika 1200-1800 INR one way with AC seating, book online 2-4 weeks ahead. Reach Port Blair (IXZ) by direct flights from Chennai, Kolkata, Bengaluru, Delhi, or the 3-4 day passenger ship from Chennai or Kolkata. Stays: Havelock beach resorts 6000-15000 INR, guesthouses 2500-4000 INR, Port Blair hotels 3000 INR, Neil cottages 2000 INR. Food: seafood thalis, grilled lobster, fish curry with rice, coconut-based island cooking. December-January and March-April are peak; monsoon May-September brings rough seas, cancelled ferries and closed dive sites. Carry cash - ATMs on Havelock and Neil run dry, and network is limited to BSNL and Airtel in parts.",
+    "hotels": [
+      { "name": "Taj Exotica Andamans", "area": "Radhanagar Beach, Havelock", "tier": "luxury", "pricePerNight": 42000, "rating": 4.7, "note": "Pool villas on the beachfront with a dive centre" },
+      { "name": "Barefoot at Havelock", "area": "Beach No. 3, Havelock", "tier": "mid-range", "pricePerNight": 9500, "rating": 4.5, "note": "Tented cottages in a forest clearing, in-house PADI dive shop" },
+      { "name": "SeaShell Neil", "area": "Bharatpur Beach, Neil Island", "tier": "mid-range", "pricePerNight": 6800, "rating": 4.3, "note": "Beach-facing cottages and a coral garden snorkelling trip" },
+      { "name": "Hotel Shompen / Vel Marine, Port Blair", "area": "Aberdeen Bazaar, Port Blair", "tier": "budget", "pricePerNight": 2800, "rating": 4.1, "note": "Central rooms near the jetty, good for ferry mornings" }
+    ],
+    "places": [
+      { "name": "Radhanagar Beach", "category": "beach", "timeNeeded": "half day", "entryFee": "Free", "description": "2 km white-sand curve on Havelock, ranked Asia's best, sunset at 5:30 pm." },
+      { "name": "Cellular Jail and Light & Sound show", "category": "heritage", "timeNeeded": "3 hours", "entryFee": "30 INR entry, show 300 INR", "description": "Colonial-era prison museum with the 6 pm English narration show." },
+      { "name": "Scuba diving at Havelock", "category": "adventure", "timeNeeded": "half day", "entryFee": "Discover scuba 3500-5000 INR, Open Water course 32000 INR", "description": "Coral gardens, turtles and reef sharks at Aquarium and Johnny's Gorge." },
+      { "name": "Elephant Beach", "category": "beach", "timeNeeded": "half day", "entryFee": "Boat 800 INR or free jungle trek", "description": "Shallow coral snorkelling spot plus sea-walk and jet-ski options." },
+      { "name": "Jolly Buoy / Red Skin island", "category": "nature", "timeNeeded": "full day", "entryFee": "Permit and boat 900-1500 INR", "description": "Protected snorkelling islands from Wandoor, limited daily permits, closed some days." },
+      { "name": "Natural Bridge, Neil Island", "category": "nature", "timeNeeded": "1 hour", "entryFee": "Free", "description": "Rock arch formed by the tide, walkable only at low tide - check timings locally." },
+      { "name": "Chidiya Tapu sunset and mangroves", "category": "nature", "timeNeeded": "half day", "entryFee": "Free, kayak 1200 INR", "description": "30 km from Port Blair, bird sanctuary, mangrove kayaking and black-sand sunset." }
+    ],
+    "tips": [
+      { "category": "booking", "text": "Book Makruzz or Green Ocean ferry tickets online 2-4 weeks ahead for December-January; government ferry counters need a passport copy and open at 8 am." },
+      { "category": "money", "text": "ATMs on Havelock and Neil frequently run dry and card machines fail - withdraw 15000-20000 INR cash in Port Blair before crossing." },
+      { "category": "safety", "text": "Dive only with PADI or SSI certified operators, respect the 18-hour no-fly window after your last dive, and never touch coral or feed fish." },
+      { "category": "planning", "text": "May-September brings rough seas and cancelled ferries; October-May is the diving season with the best visibility (20-30 m) in February-April." }
+    ]
+  }
+]
