@@ -45,7 +45,7 @@ export const POST = apiHandler(async (request: NextRequest) => {
   const scoped = slug ? bundles.filter((bundle) => bundle.destination.slug === slug) : bundles;
   const { answer, sources } = answerFromContext(message, scoped.length ? scoped : bundles);
 
-  const [savedUserMessage, savedAssistantMessage] = await Promise.all([
+  const [savedUserRows, savedAssistantRows] = await Promise.all([
     db
       .insert(chatMessages)
       .values({ userId: user.id, role: "user", content: message, destinationSlug: slug })
@@ -55,6 +55,11 @@ export const POST = apiHandler(async (request: NextRequest) => {
       .values({ userId: user.id, role: "assistant", content: answer, destinationSlug: slug })
       .returning(),
   ]);
+
+  // .returning() always resolves to an array, even for a single insert -
+  // unwrap to the actual row objects before sending to the client.
+  const savedUserMessage = savedUserRows[0];
+  const savedAssistantMessage = savedAssistantRows[0];
 
   console.log(`[CHAT] user id=${user.id} asked "${message.slice(0, 50)}" -> ${sources.length} sources`);
 
